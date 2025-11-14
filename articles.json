@@ -1,136 +1,1293 @@
 {
   "status": "ok",
-  "totalResults": 20,
+  "totalResults": 354,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "The Indian Express"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Abhinaya Harigovind",
-      "title": "QS Asia Rankings 2026: India’s top IITs slip as universities from China, Singapore surge ahead",
-      "description": "Nine of India’s top 10 institutions, including seven IITs, see sharp rank falls in QS Asia 2026 list even as their scores improve — a sign of stronger competition from East and Southeast Asia.",
-      "url": "https://indianexpress.com/article/education/qs-asia-rankings-2026-indias-top-iits-slip-as-universities-from-china-singapore-surge-ahead-10345225/",
-      "urlToImage": "https://images.indianexpress.com/2025/11/Clockwise-IIT-Delhi-IISc-Bangalore-IIT-Madras-IIT-Bombay-Images-via-official-sources.png",
-      "publishedAt": "2025-11-04T10:01:34Z",
-      "content": "QS Asia Rankings 2026 Complete List: All but one of the top 10 Indian institutions in the QS rankings of Asian universities for 2026, including seven IITs, have seen their ranks fall sharply this yea… [+8572 chars]"
+      "author": "Gloria Pazmino, CNN",
+      "title": "Zohran Mamdani faces pushback over his story about a family member’s post-9/11 fears",
+      "description": "In the final days of New York City’s mayoral race, Democratic nominee Zohran Mamdani has faced pushback over a story he told about his aunt being afraid to...",
+      "url": "https://www.cnn.com/2025/10/28/politics/zohran-mamdani-sept-11-aunt",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/610c8248d18f80d0ca9e8849c761d82c",
+      "publishedAt": "2025-10-28T15:35:14Z",
+      "content": "In the final days of New York Citys mayoral race, Democratic nominee Zohran Mamdani has faced pushback over a story he told about his aunt being afraid to wear her hijab while riding the subway after… [+3052 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Project Syndicate"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Mark Leonard",
-      "title": "What Chinese Leaders Really Think of Trump",
-      "description": "According to Chinese academics, economists, and retired military officers, the country's leaders are not losing any sleep over Donald Trump's America First agenda. In fact, as they see it, the US president is ushering in a world that Chinese strategists have …",
-      "url": "https://www.project-syndicate.org/commentary/chinese-view-of-trump-world-disorder-by-mark-leonard-2025-11",
-      "urlToImage": "https://webapi.project-syndicate.org/library/2c57e019293484aa688ab4dbad29bb5c.2-1-super.1.jpg",
-      "publishedAt": "2025-11-04T13:52:53Z",
-      "content": "According to Chinese academics, economists, and retired military officers, the country's leaders are not losing any sleep over Donald Trump's America First agenda. In fact, as they see it, the US pre… [+5685 chars]"
+      "author": "Gene Armstrong",
+      "title": "RESULTS",
+      "description": "See live election results for the New York City mayoral race between Democrat Zohran Mamdani, Independent Andrew Cuomo and Republican Curtis Sliwa.",
+      "url": "https://www.cnn.com/election/2025/results/new-york-city-mayor",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/election-center-2025.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-11-05T02:04:37Z",
+      "content": "After a commanding and shocking win in the Democratic primary, Zohran Mamdani is running to become mayor of the nations largest city. Standing in his way is former Gov. Andrew Cuomo, who is back for … [+303 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "msnbc",
+        "name": "MSNBC"
       },
-      "author": "John Cassillo, Contributor, \n John Cassillo, Contributor\n https://www.forbes.com/sites/johncassillo/",
-      "title": "College Football Playoff Can’t Be Operated By Networks",
-      "description": "The new College Football Playoff rankings present the latest in a long line of examples of why ESPN can't operate the event and air it at the same time.",
-      "url": "https://www.forbes.com/sites/johncassillo/2025/11/05/college-football-playoff-cant-be-operated-by-networks/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/690bba9231bc114118974355/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2025-11-05T20:59:46Z",
-      "content": "NEW ORLEANS, LOUISIANA - JANUARY 2: CFP, ESPN branding on TV camera before the College Football Playoff Quarterfinal game between the Georgia Bulldogs and the Notre Dame Fighting Irish at the Allstat… [+4606 chars]"
+      "author": "Nick Akerman",
+      "title": "How Zohran Mamdani should confront Trump’s relentless intimidation campaign",
+      "description": "This month is the 63rd anniversary of the Cuban missile crisis.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-zohran-mamdani-nyc-mayor-response-rcna239351",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251023-donald-trump-zohran-mamdani-zz-c8a8d4.jpg",
+      "publishedAt": "2025-10-24T10:00:00Z",
+      "content": "This month is the 63rd anniversary of the Cuban missile crisis. In October 1962, Russian Premier Nikita Khrushchev tried to intimidate the young first-term U.S. President, John F. Kennedy, by moving … [+4556 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "msnbc",
+        "name": "MSNBC"
       },
-      "author": "Jamie Stone",
-      "title": "Barbara Corcoran Only Cares About This One Trait When She’s Hiring",
-      "description": "Barbara Corcoran reveals the one trait she values most when hiring—and why it matters more than experience, education or even skills.",
-      "url": "https://finance.yahoo.com/news/barbara-corcoran-only-cares-one-115507543.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/E3pDCnapMDAfS6jtj27Uug--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/6cde327664a6f976e7caac8024cf152c",
-      "publishedAt": "2025-10-22T11:55:07Z",
-      "content": "When Shark Tank star Barbara Corcoran built her $66 million real estate empire, she discovered that successful hiring isnt about impressive resumes or perfect credentials. Instead, she focuses on one… [+2336 chars]"
+      "author": "Noor Noman",
+      "title": "Zohran Mamdani said the quiet part out loud. Finally.",
+      "description": "The New York City mayoral candidate released a video about his identity as a Muslim and the galling Islamophobia he has endured during his campaign.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/zohran-mamdani-muslim-new-york-mayor-islamophobia-rcna240132",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251027-zohran-mamdani-zz-f86380.jpg",
+      "publishedAt": "2025-10-28T17:32:44Z",
+      "content": "Zohran Mamdani moved me to tears. \r\nThe New York City mayoral candidate released a six-minute video on Friday about his identity as a Muslim and the galling Islamophobia he has endured during his cam… [+5373 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "ClutchPoints"
+        "id": "msnbc",
+        "name": "MSNBC"
       },
-      "author": "ClutchPoints",
-      "title": "Dave Portnoy claims Ohio State fans are ‘stupid’ with Tom Brady example",
-      "description": "Dave Portnoy calls an Ohio State Buckeyes fan \"stupid\" by using a Tom Brady example during \"Big Noon Kickoff.\"",
-      "url": "https://clutchpoints.com/ncaa-football/ohio-state-football-news-dave-portnoy-claims-buckeyes-fans-stupid-tom-brady-example",
-      "urlToImage": "https://media.zenfs.com/en/clutchpoints_articles_939/bbce29cb39a159dae36310ffe4ecae9f",
-      "publishedAt": "2025-11-01T18:38:12Z",
-      "content": "The post Dave Portnoy claims Ohio State fans are stupid with Tom Brady example appeared first on ClutchPoints.\r\nThe Ohio State Buckeyes are taking on the Penn State Nittany Lions in Week 10, as the p… [+1556 chars]"
+      "author": "Allison Detzel",
+      "title": "Mamdani headed to victory in historic NYC mayor's race",
+      "description": "Zohran Mamdani beat out former New York Gov. Andrew Cuomo to become New York City's next mayor, in a race that captured national attention.",
+      "url": "https://www.msnbc.com/top-stories/latest/mamdani-wins-nyc-mayor-race-election-results-rcna240589",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251103-zohran-mamdani-zz-ceada9.jpg",
+      "publishedAt": "2025-11-05T02:33:42Z",
+      "content": "Zohran Mamdani, a self-proclaimed democratic socialist, will be New York Citys 111th mayor and the first Muslim to lead the countrys largest city, NBC News' Decision Desk projects.\r\nThe 34-year-old s… [+3304 chars]"
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Ayman Mohyeldin",
+      "title": "Zohran Mamdani’s win is a template for Democratic revival",
+      "description": "New York City Mayor-Elect Zohran Mamdani, who defeated Andrew Cuomo on Tuesday, showed the Democratic Party how to win with moral clarity.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/zohran-mamdani-nyc-election-democrats-lessons-rcna242681",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-zohran-mamdani-republican-defeat-es-aeeef2.jpg",
+      "publishedAt": "2025-11-08T11:01:00Z",
+      "content": "Zohran Mamdanis victory in the New York City mayoral race is more than an improbable municipal election win; it is a template for Democratic revival, one that can marry socioeconomic policies and mes… [+5421 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Zack Stanton, Nnamdi Egwuonwu",
+      "title": "As Mamdani nears victory, Democrats worry about national fallout",
+      "description": "Democratic socialist Zohran Mamdani is on the cusp of a mayoral win in New York. And national Democrats are concerned about what that means for the party.",
+      "url": "https://www.msnbc.com/msnbc/news/mamdani-nears-victory-democrats-worry-national-fallout-rcna241713",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251103-zohran-mamdani-new-york-es-e243ef.jpg",
+      "publishedAt": "2025-11-04T10:00:41Z",
+      "content": "On the cusp of electoral victory, New York mayoral frontrunner Zohran Mamdani marched over the Brooklyn Bridge on Monday and arrived at City Hall, where he greeted cheering supporters with a promise.… [+7232 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Allison Detzel",
+      "title": "Zohran Mamdani slams JD Vance for pushing ‘cheap jokes about Islamophobia’",
+      "description": "Zohran Mamdan hit back at JD Vance, accusing the vice president and opponent Andrew Cuomo of pushing “cheap jokes about Islamophobia.”",
+      "url": "https://www.msnbc.com/top-stories/latest/zohran-mamdani-hits-back-jd-vance-islamophobia-new-york-rcna240085",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/MSNBC-Exclusive-Zohran-Mamdani-responds-to-JD-Vance-Cheap-jokes-about-Islamophobia-a09460.jpg",
+      "publishedAt": "2025-10-27T18:21:32Z",
+      "content": "With just over a week until Election Day in New York City, mayoral front-runner Zohran Mamdani hit back at JD Vance, accusing the vice president and members of his party of pushing cheap jokes about … [+2547 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Anthony L. Fisher",
+      "title": "Megyn Kelly’s xenophobic rant against Zohran Mamdani is as MAGA as it gets",
+      "description": "The right-wing pundit says Muslims like New York City's mayor-elect shouldn't hold office in the U.S.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/megyn-kelly-zohran-mamdani-ben-shapiro-islam-antisemitism-rcna242187",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251105-megyn-kelly-donald-trump-es-27959f.jpg",
+      "publishedAt": "2025-11-07T11:00:00Z",
+      "content": "MAGA thought leader Ben Shapiro made headlines earlier this week when he unloaded on his former friend and political ally Tucker Carlson over the latters chummy interview with the unabashed antisemit… [+6860 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Allison Detzel",
+      "title": "Hakeem Jeffries: Affordability was the ‘connective tissue’ that led Democrats to victory",
+      "description": "Hakeem Jeffries told \"Morning Joe\" there was one issue at the center of Democrats’ success in elections in New Jersey, Virginia and New York City: affordability.",
+      "url": "https://www.msnbc.com/top-stories/latest/hakeem-jeffries-affordability-democrats-election-wins-trump-rcna242201",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/Video-28-abfdf5.jpg",
+      "publishedAt": "2025-11-05T21:13:40Z",
+      "content": "According to House Minority Leader Hakeem Jeffries, there was one issue at the center of Democrats success Tuesday: affordability. \r\nOn Wednesday, Jeffries joined Morning Joe to reflect on what he ca… [+1819 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Jen Psaki",
+      "title": "Republicans want to make Mamdani their new bogeyman. That won’t work.",
+      "description": "Republicans have long tried to make a single Democrat the face of the party. They've got a new target in the mayor-elect of New York City.",
+      "url": "https://www.msnbc.com/inside-with-jen-psaki/zohran-mamdani-republican-target-blueprint-newsletter-rcna242204",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251105-jen-psaki-zohran-mamdani-zz-f583e7.jpg",
+      "publishedAt": "2025-11-06T03:26:13Z",
+      "content": "Welcome to The Blueprint with Jen Psaki newsletter. Each week, Jen dives into the key players, emerging issues and strategic movements shaping the future of the Democratic Party. Subscribe nowto get … [+3563 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Antonia Hylton",
+      "title": "Can Cuomo persuade enough New Yorkers to be scared of Mamdani?",
+      "description": "With less than a week to go in New York City’s mayoral race, Andrew Cuomo appeared on Fox News with host Maria Bartiromo to deliver his closing pitch to New Yorkers heading to the ballot box.",
+      "url": "https://www.msnbc.com/news/news-analysis/andrew-cuomo-zohran-mamdani-new-york-mayor-fear-tactics-rcna241140",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251031-new-york-city-election-zz-03-2dc6e1.jpg",
+      "publishedAt": "2025-11-01T10:00:00Z",
+      "content": "With less than a week to go in New York Citys mayoral race, Andrew Cuomo appeared on Fox News with host Maria Bartiromo to deliver his closing pitch to New Yorkers heading to the ballot box. And it w… [+5857 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Ryan Teague Beckwith",
+      "title": "Trump is on the ballot in these seven races",
+      "description": "Several key races around the country will give an indication of President Donald Trump's continuing influence on politics.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/election-day-virginia-new-jersey-new-york-project-47-rcna240971",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251103-abigail-spanberger-zz-02-f93298.jpg",
+      "publishedAt": "2025-11-04T14:14:51Z",
+      "content": "President Donald Trump may not be on the ballot Tuesday, but in many places, he might as well be.\r\nThe presidents influence can be felt in several key races across the country, from candidates both p… [+4728 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Laura Barrón-López, Jake Traylor",
+      "title": "Trump wasn’t on the ballot on Tuesday — but still took a major loss",
+      "description": "Trump and Republicans lost to Democrats in the 2025 elections in the New Jersey and Virginia governor's races and in the New York City mayoral race.",
+      "url": "https://www.msnbc.com/msnbc/news/trump-election-2025-loss-democrats-win-rcna242024",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-donald-trump-republican-defeat-es-18bb51.jpg",
+      "publishedAt": "2025-11-05T04:44:51Z",
+      "content": "President Donald Trumps name may not have been on the ballot Tuesday, but he suffered a resounding defeat anyway as voters rejected Republican candidates andregistered their strong disapproval of how… [+9226 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Ja'han Jones",
+      "title": "Report shows massive scale of Trump family’s crypto gambit",
+      "description": "Plus, Trump Jr.’s drone company nets a government contract, Kyrsten Sinema’s tech fantasies spark outcry, the Trump admin expands surveillance, and more.",
+      "url": "https://www.msnbc.com/top-stories/latest/trump-cryptocurrency-bennie-thompson-sequoia-mamdani-rcna240349",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251028-donaldtrumpjr-sc-0ba013.jpg",
+      "publishedAt": "2025-10-28T22:01:17Z",
+      "content": "Happy Tuesday! Heres your Tech Drop: the weeks top stories from the intersection of technology and politics.\r\nThe scale of Trumps crypto self-enrichment\r\nA new Reuters report breaks down the Trump fa… [+6086 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Jared Bernstein",
+      "title": "Everything about Trump's very bad week comes back to the same cause",
+      "description": "Last week, President Donald Trump had what was arguably the worst week of his second term.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-affordability-costs-elections-tariffs-rcna242972",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-donald-trump-tariffs-zz-f5efb4.jpg",
+      "publishedAt": "2025-11-11T15:54:48Z",
+      "content": "Last week, President Donald Trump had what was arguably the worst week of his second term. And though the hits to him and his agenda came on several fronts, they had a unifying theme: affordability, … [+6639 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Paul Waldman",
+      "title": "House Speaker Mike Johnson can’t accept what Democrats’ Tuesday wins really mean",
+      "description": "Democrats won Tuesday in Virginia, New Jersey  New York, Pennsylvania and Mississippi and ousted Republicans on a Georgia commission that regulates utilities.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/voter-anger-tuesday-election-republicans-rcna242246",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251105-mad-voters-es-729d77.jpg",
+      "publishedAt": "2025-11-06T11:00:00Z",
+      "content": "The most important takeaway from Tuesday nights elections the one that has real implications for 2026 and 2028 is that Democrats won everywhere, in many cases improving their 2024 performance by stri… [+6670 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Dr. Jalal Baig",
+      "title": "Why Zohran Mamdani’s historic victory is so special",
+      "description": "New York elected its first Muslim mayor, Zohran Mamdani, amid bilious Islamophobia from his rivals, including former New York governor Andrew Cuomo.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/zohran-mamdani-nyc-mayor-election-muslim-rcna241866",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-zohran-mamdani-zz-2e391d.jpg",
+      "publishedAt": "2025-11-05T02:45:32Z",
+      "content": "For me, New York City has always been a place of wonder and limitless possibility. This belief was renewed Tuesday when the countrys largest city elected its first Muslim mayor, Zohran Mamdani. Hundr… [+5552 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Erum Salam",
+      "title": "Zohran Mamdani’s all-female transition team features familiar names",
+      "description": "New York City Mayor-elect Zohran Mamdani announced an all-female transition team on Wednesday, after winning a race in which he campaigned as a fresh face.",
+      "url": "https://www.msnbc.com/top-stories/latest/zohran-mamdanis-female-transition-team-features-familiar-names-rcna242140",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251105-zohran-mamdani-team-zz-eeae97.jpg",
+      "publishedAt": "2025-11-05T19:47:53Z",
+      "content": "New York City Mayor-elect Zohran Mamdani announced an all-female transition team on Wednesday, hours after winning a race in which he campaigned as a fresh face.\r\nThe group he introduced, however, in… [+2523 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Allison Detzel",
+      "title": "Five takeaways from the fiery New York City mayoral debate",
+      "description": "New York City mayoral candidates Zohran Mamdani, Andrew Cuomo and Curtis Sliwa faced off in a fiery debate, discussing Trump, affordability and Israel-Hamas war.",
+      "url": "https://www.msnbc.com/top-stories/latest/new-york-city-mayoral-debate-mamdani-cuomo-trump-rcna238229",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251017-nyc-mayoral-debate-zz-029fdc.jpg",
+      "publishedAt": "2025-10-17T18:33:09Z",
+      "content": "With just weeks until Election Day, the New York City mayoral candidates, Democrat Zohran Mamdani, independent Andrew Cuomo and Republican Curtis Sliwa, faced off in a fiery debate on Thursday evenin… [+5444 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Nnamdi Egwuonwu",
+      "title": "Democrats win big on election night — and sidestep an identity crisis",
+      "description": "Zohran Mamdani wins big on Tuesday — along with Mikie Sherrill in New Jersey and Abigail Spanberger in Virginia — but differences in the Democratic Party remain",
+      "url": "https://www.msnbc.com/msnbc/news/2025-election-results-mamdani-sherrill-spanberger-democrats-rcna241893",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-sherrill-mamdani-spanberger-es-7c28c0.jpg",
+      "publishedAt": "2025-11-05T06:32:13Z",
+      "content": "Heading into Tuesday, there was an expectation that the election results might highlight a growing gulf within the Democratic Party between moderates from purple states and progressives from deep-blu… [+5269 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Zeeshan Aleem",
+      "title": "Zohran Mamdani's win signals morning in America for democratic socialists",
+      "description": "Zohran Mamdani’s victory over Andrew Cuomo is also a win for democratic socialism.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/zohran-mamdani-election-mayor-results-socialism-rcna241124",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-zohran-mamdani-democratic-socialist-es-b3bf5d.jpg",
+      "publishedAt": "2025-11-05T11:00:41Z",
+      "content": "New York state Assemblymember Zohran Mamdanis victory Tuesday over former Gov. Andrew Cuomo capped an astonishing anti-establishment campaign by a 34-year-old who was polling at 1% in January. But pe… [+8451 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Erum Salam",
+      "title": "Trump endorses former Gov. Andrew Cuomo for New York City mayor",
+      "description": "The president had already offered tepid support in a CBS News interview aired on Monday, but doubled down just before the general election.",
+      "url": "https://www.msnbc.com/top-stories/latest/trump-endorses-andrew-cuomo-new-york-city-mayor-rcna241747",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251103-donald-trump-andrew-cuomo-es-1bc213.jpg",
+      "publishedAt": "2025-11-04T01:13:27Z",
+      "content": "President Donald Trump officially endorsed former Gov. Andrew Cuomo for New York City mayor on Monday, just one day before the highly anticipated general election.\r\nWhether you personally like Andrew… [+1447 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Steve Benen",
+      "title": "JD Vance’s analysis of the 2025 elections has one obvious flaw",
+      "description": "Assessing the Democrats' dominant wins in this week's elections, JD Vance saw little more than “a couple of elections in blue states.” That's not what happened.",
+      "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/jd-vances-analysis-2025-elections-one-obvious-flaw-rcna242324",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251106-jd-vance-zz-53f429.jpg",
+      "publishedAt": "2025-11-06T14:50:30Z",
+      "content": "After a dominating Democratic performance in the 2025 elections, some Republicans have grudgingly acknowledged reality. Last night was a disaster, Sen. Ted Cruz of Texas told Fox News. It was an elec… [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Ryan Teague Beckwith",
+      "title": "Voters rejected Trump's influence in 7 key races",
+      "description": "President Donald Trump lost big in Tuesday's elections, as voters rejected candidates he endorsed and causes he championed around the country",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/election-results-virginia-new-jersey-new-york-project-47-rcna242028",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-abigail-spanberger-es-86bbcb.jpg",
+      "publishedAt": "2025-11-05T14:30:17Z",
+      "content": "President Donald Trump lost big in Tuesday's elections, as voters rejected candidates he endorsed and causes he championed around the country.\r\nIn the first major elections of Trump's second term, hi… [+6054 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Jill Lawrence",
+      "title": "Republicans' attacks on 'No Kings' protests reek of desperation",
+      "description": "Republican leaders spout hallucinatory talking points in which “No Kings” protests become “‘Hate America’ rallies.”",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/no-kings-protests-johnson-trump-rcna238038",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251016-Trump-Johnson-aa-544-d5413f.jpg",
+      "publishedAt": "2025-10-17T10:00:00Z",
+      "content": "You might find this hard to believe, but Donald Trump and his fellow Republicans are making stuff up. This is a go-to move when they fear their power and corrupt authoritarian plans are at risk, and … [+5074 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Paul Waldman",
+      "title": "Democrats want to play it safe in Maine’s white-hot Senate race. That’s a mistake.",
+      "description": "Democrats should embrace an open primary field in the race to beat Maine GOP Sen. Susan Collins.",
+      "url": "https://www.msnbc.com/opinion/msnbc-opinion/susan-collins-maine-primary-election-democrats-janet-mills-rcna237576",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251014-janet-mills-zz-3f7344.jpg",
+      "publishedAt": "2025-10-15T10:00:00Z",
+      "content": "Maine Gov. Janet Mills has entered the race to unseat Republican Sen. Susan Collins in next years election, rounding out a primary field in what could be the most competitive Senate race in the count… [+5674 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Joe Scarborough",
+      "title": "The Tea, Spilled by Morning Joe: ‘Now the candidates must wait’",
+      "description": "This is the Nov. 4 edition of “The Tea, Spilled by Morning Joe” newsletter.",
+      "url": "https://www.msnbc.com/morning-joe/tea-spilled-morning-joe-now-candidates-must-wait-rcna241855",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/MAMDANIPIC-123ee7.jpg",
+      "publishedAt": "2025-11-04T18:08:23Z",
+      "content": "This is the Nov. 4 edition of The Tea, Spilled by Morning Joe newsletter.Subscribe hereto get it delivered straight to your inbox Monday through Friday.\r\nAn odd confluence of colliding events will pu… [+6897 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Nnamdi Egwuonwu",
+      "title": "Democrats find a post-Trump message: Make life more affordable",
+      "description": "From Zohran Mamdani in New York to Mikie Sherrill in New Jersey and Abigail Spanberger in Virginia, Democrats are showing what they’ve learned from Trump’s win.",
+      "url": "https://www.msnbc.com/msnbc/news/democrats-2025-election-mamdani-sherrill-spanberger-midterms-message-rcna240740",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251030-mamdani-spanberger-sherill-zz-d566ff.jpg",
+      "publishedAt": "2025-10-31T09:00:00Z",
+      "content": "The Democratic Party cant agree on much these days not on shutdown strategy, not on Gaza, not on abundance. But walk into any Democratic campaign event this election season, and youll hear the same r… [+5560 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
       },
       "author": null,
-      "title": "Ontario renters, cyclists, environmentalists concerned about Ford omnibus bill",
-      "description": "Renters, cyclists and environmentalists are expressing frustration with the Ontario government’s latest omnibus bill, legislation to speed up new home construction that also introduces potential changes to residential tenancy rules, bike lanes and municipal p…",
-      "url": "https://www.cbc.ca/news/canada/toronto/ontario-bill-60-omnibus-debate-9.6960683",
-      "urlToImage": "https://i.cbc.ca/ais/51e9e237-078f-4aa8-9af5-51262aa660ef,1761855485405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C259%2C4978%2C2800%29%3BResize%3D620",
-      "publishedAt": "2025-10-31T09:00:00Z",
-      "content": "Renters, cyclists and environmentalists are expressing frustration with the Ontario governments latest omnibus bill, legislation to speed up new home construction that also introduces potential chang… [+6699 chars]"
+      "title": "ADL launches ‘Mamdani Monitor’ to track NYC Mayor-elect Zohran Mamdani over antisemitism concerns",
+      "description": "The ADL’s new “Mamdani Monitor\" targets Mayor-elect Zohran Mamdani over antisemitism concerns, but some Jewish groups say the move is unfair.",
+      "url": "https://www.foxnews.com/politics/adl-launches-mamdani-monitor-track-nyc-mayor-elect-zohran-mamdani-over-antisemitism-concerns",
+      "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+      "publishedAt": "2025-11-07T19:50:33Z",
+      "content": "The Anti-Defamation League, which tracks antisemitic activity across the country, launched a \"Mamdani Monitor\" this week to track the actions of Zohran Mamdani, the mayor-elect of New York City.\r\nAn … [+2473 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Slate Magazine"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Sam Adams",
-      "title": "Why a 26-Year-Old Song Is Suddenly Everywhere",
-      "description": "Jennifer Lawrence’s Die My Love, Celine Song’s Materialists, and Lena Dunham’s new show all commit to the same old duet, in spite of its quirkiness.",
-      "url": "https://slate.com/culture/2025/11/die-my-love-jennifer-lawrence-materialists-song-john-prine.html",
-      "urlToImage": "https://compote.slate.com/images/1a84658b-813f-42fa-bb03-cc10d790316a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "publishedAt": "2025-11-07T19:26:21Z",
-      "content": "When it came time to commission a new pop song for her bittersweet romance Materialists, Celine Song had a simple guideline for prospective songwriters: Make it like John Prines In Spite of Ourselves… [+8578 chars]"
+      "author": null,
+      "title": "New MAMDANI Act would block federal funds to NYC after socialist's inauguration",
+      "description": "GOP Rep. Buddy Carter introduced the MAMDANI Act to block federal funding to New York City while socialist Zohran Mamdani serves as mayor after his election victory.",
+      "url": "https://www.foxnews.com/politics/new-mamdani-act-would-block-federal-funds-nyc-after-socialists-inauguration",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/mamdani-nyc-mayor-fox-news.jpg",
+      "publishedAt": "2025-11-06T16:16:17Z",
+      "content": "FIRST ON FOX: A House GOP lawmaker is proposing to block federal funds from New York City for as long as Zohran Mamdani is mayor.\r\nNew legislation led by Rep. Buddy Carter, R-Ga., is called the Movin… [+1927 chars]"
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Jayashree Bhosale",
-      "title": "Russia overtakes Ukraine as India's top sunflower oil supplier",
-      "description": "Russia has become India's largest sunflower oil supplier, with imports surging twelvefold in four years, displacing Ukraine. This shift is attributed to Russia's reliable seaports and competitive pricing, especially as Ukraine diverts produce to Europe. Despi…",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russia-overtakes-ukraine-as-indias-top-sunflower-oil-supplier/articleshow/125004055.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-125004111,width-1200,height-630,imgsize-82576,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-11-01T00:30:00Z",
-      "content": "Russia has been trumping oil exports and its not just crude. Imports of sunflower oil from Russia have shot up twelvefold in the last four years, making it Indias largest supplier, displacing Ukraine… [+2773 chars]"
+      "author": null,
+      "title": "UK politician campaigning for Zohran Mamdani prompts foreign meddling accusations",
+      "description": "Republicans blast NYC mayor candidate Zohran Mamdani after Jeremy Corbyn joined his campaign phone-banking event.",
+      "url": "https://www.foxnews.com/politics/uk-politician-campaigning-zohran-mamdani-prompts-foreign-meddling-accusations",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-nyc-debate.png",
+      "publishedAt": "2025-11-04T14:00:18Z",
+      "content": "Republicans are blasting New York City mayoral candidate Zohran Mamdani\r\n for getting help from a foreign government official in the waning days of his campaign.\r\nJeremy Corbyn, the controversial for… [+3608 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "GlobeNewswire"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "The Capital Link",
-      "title": "The Capital Link Investigates: Opioid Story Retraction, Claims Unverified",
-      "description": "New York, NY, Oct.  27, 2025  (GLOBE NEWSWIRE) -- Opioid Story Retraction: Claims Unverified  Rothstein’s inclination to favor a sensational narrative...",
-      "url": "https://www.globenewswire.com/news-release/2025/10/27/3175040/0/en/The-Capital-Link-Investigates-Opioid-Story-Retraction-Claims-Unverified.html",
-      "urlToImage": "https://ml.globenewswire.com/Resource/Download/78c2ecb9-5441-4a74-8791-ae628cf3d605",
-      "publishedAt": "2025-10-27T22:24:00Z",
-      "content": "New York, NY, Oct. 27, 2025 (GLOBE NEWSWIRE) -- Opioid Story Retraction: Claims Unverified\r\nRothsteins inclination to favor a sensational narrative over verification was also on display in a Bisnow l… [+10839 chars]"
+      "author": null,
+      "title": "Andrew Cuomo campaign walks back controversial attack ad targeting Mamdani voters",
+      "description": "Andrew Cuomo's NYC mayoral campaign walked back an AI-generated ad that depicted rival Zohran Mamdani's supporters committing crimes Wednesday.",
+      "url": "https://www.foxnews.com/politics/andrew-cuomo-campaign-walks-back-controversial-attack-ad-targeting-mamdani-voters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/cuomo-mamdani-split-august-2025.jpg",
+      "publishedAt": "2025-10-23T18:21:18Z",
+      "content": "New York City mayoral candidate Andrew Cuomo's campaign is walking back an AI-generated ad that depicted opposing voters as criminals and vagrants on Thursday.\r\nThe ad depicts supporters of rival can… [+2382 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CryptoSlate"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Christina Comben",
-      "title": "When the wrench comes for the wallet: Why Bitcoin’s biggest believers are handing over their keys",
-      "description": "Self‑custody was once the ultimate badge of credibility in crypto. A declaration of faith in sovereignty over convenience, code over blind trust, and cryptography over legal fine print. But for many of the space’s earliest and wealthiest adopters, that belief…",
-      "url": "https://cryptoslate.com/when-the-wrench-comes-for-the-wallet-why-bitcoins-biggest-believers-are-handing-over-their-keys/",
-      "urlToImage": "https://cryptoslate.com/wp-content/uploads/2025/11/bitcoin-wrench.jpg",
-      "publishedAt": "2025-11-02T14:00:17Z",
-      "content": "Selfcustody was once the ultimate badge of credibility in crypto. A declaration of faith in sovereignty over convenience, code over blind trust, and cryptography over legal fine print. But for many o… [+11752 chars]"
+      "author": null,
+      "title": "Trump asserts that any Jewish person who votes for 'self professed Jew hater' Mamdani is 'a stupid person'",
+      "description": "President Donald Trump asserted that any Jewish individuals who vote for Big Apple Democratic mayoral candidate Zohran Mamdani are \"stupid.\"",
+      "url": "https://www.foxnews.com/politics/trump-asserts-jewish-person-votes-self-professed-jew-hater-mamdani-stupid-person",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/donald-trump-zohran-mamdani-split-photo-2.jpg",
+      "publishedAt": "2025-11-04T18:30:46Z",
+      "content": "As Big Apple voters head to the polls on Tuesday to pick their next mayor, President Donald Trump asserted that any Jewish person who casts a ballot for democratic socialist candidate Zohran Mamdani … [+2301 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Zohran Mamdani emerges as Republicans' government shutdown boogeyman",
+      "description": "House Republicans have held up NYC mayoral candidate Zohran Mamdani as their boogeyman in the government shutdown.",
+      "url": "https://www.foxnews.com/politics/zohran-mamdani-emerges-republicans-government-shutdown-boogeyman",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-october-2025.jpg",
+      "publishedAt": "2025-11-02T15:00:51Z",
+      "content": "As the government shutdown stretches over a month, one left-wing figure has emerged as House Republicans most-cited political boogeyman and its not either of the top two Democrats in Congress.\r\nInste… [+2865 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Top Democrat lawmaker compares socialist Zohran Mamdani to FDR",
+      "description": "Progressive Rep. Jamie Raskin compares NYC mayoral candidate Zohran Mamdani to FDR in a new video, calling him a 'democratic socialist' with 'Rooseveltian ambition.'",
+      "url": "https://www.foxnews.com/politics/top-democrat-lawmaker-compares-socialist-zohran-mamdani-fdr",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/mamdani-election-day.jpg",
+      "publishedAt": "2025-11-04T22:52:36Z",
+      "content": "Progressive Rep. Jamie Raskin, D-Md., is comparing New York City mayoral candidate Zohran Mamdani\r\n to one of the most significant American presidents of the 20th century.\r\nRaskin posted a video paid… [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Rep. Elise Stefanik labels NYC mayoral candidate Zohran Mamdani a 'jihadist'",
+      "description": "U.S. Rep. Elise Stefanik, a Republican from New York, has assailed New York City mayoral candidate Zohran Mamdani as a \"jihadist\" and \"raging antisemite.\"",
+      "url": "https://www.foxnews.com/politics/rep-elise-stefanik-labels-nyc-mayoral-candidate-zohran-mamdani-jihadist",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/elise-stefanik-zohran-mamdani-1.jpg",
+      "publishedAt": "2025-10-17T11:06:38Z",
+      "content": "U.S. Rep. Elise Stefanik, an Empire State Republican, called Democratic Big Apple mayoral candidate Zohran Mamdani a \"jihadist.\"\r\n\"I call Zohran Mamdani a jihadist because he is. Zohran Mamdani is a … [+1800 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "House Republican demands Zohran Mamdani be stripped of citizenship, deported over 'anti-Israel' stance",
+      "description": "House Rep. Andy Ogles of Tennessee is calling for the DOJ to investigate New York City mayoral candidate Zohran Mamdani.",
+      "url": "https://www.foxnews.com/politics/house-republican-calls-zohran-mamdani-face-denaturalization-deportation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-october-2025.jpg",
+      "publishedAt": "2025-10-28T13:00:15Z",
+      "content": "FIRST ON FOX: A House GOP lawmaker is calling on the Department of Justice (DOJ) to denaturalize and deport New York City mayoral candidate Zohran Mamdani.\r\nRep. Andy Ogles, R-Tenn., is sending a new… [+2766 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Republicans push to make Mamdani the new face of the Democratic Party",
+      "description": "Republicans attack NYC's new socialist mayor-elect Zohran Mamdani, using his victory to target Democrats in upcoming midterm elections nationwide.",
+      "url": "https://www.foxnews.com/politics/republicans-push-make-mamdani-new-face-democratic-party",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-election-night-watch-party.jpg",
+      "publishedAt": "2025-11-05T17:38:38Z",
+      "content": "Republicans wasted no time using democratic socialist Mayor-elect Zohran Mamdani of New York City as a political cudgel to bash Democrats.\r\nAs the 34-year-old state lawmaker from New York City was on… [+5166 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "ADL chief warns NYC mayor-elect Zohran Mamdani poses a 'clear and present danger' to Jewish community",
+      "description": "ADL warns NYC's new mayor Zohran Mamdani poses danger to Jewish community, launches accountability measures after controversial election victory.",
+      "url": "https://www.foxnews.com/media/adl-chief-warns-nyc-mayor-elect-zohran-mamdani-poses-clear-present-danger-jewish-community",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-nyc-mayoral-win-fox-news.jpg",
+      "publishedAt": "2025-11-06T00:00:24Z",
+      "content": "The head of the Anti-Defamation League (ADL) issued a warning to New Yorkers after Zohran Mamdani was elected the next mayor of New York City, calling him a \"clear and present danger\" to the Jewish c… [+3117 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Assault on Columbus statues sparked Italian-American groups to band together and fight back: community leader",
+      "description": "Italian-American community leaders condemn NYC mayoral candidate Zohran Mamdani over 2020 photo showing disrespect toward Christopher Columbus statue.",
+      "url": "https://www.foxnews.com/us/assault-columbus-statues-sparked-italian-american-groups-band-together-fight-back-community-leader",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/columbus-statue.jpg",
+      "publishedAt": "2025-10-13T10:00:44Z",
+      "content": "Five years after statues of storied Italian explorer Christopher Columbus were toppled, beheaded and otherwise vandalized across America in the name of \"social justice,\" the issue has once again been… [+7687 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC rabbis warn Democratic socialist mayoral candidate 'poses a danger' to Jewish New Yorkers",
+      "description": "Zohran Mamdani is leading the New York City mayoral race against Andrew Cuomo and Curtis Sliwa as rabbis warn he poses a danger to Jewish New Yorkers.",
+      "url": "https://www.foxnews.com/politics/nyc-rabbis-warn-democratic-socialist-mayoral-candidate-poses-danger-jewish-new-yorkers",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/rabbi-cosgrove-nyc.jpg",
+      "publishedAt": "2025-10-22T15:53:26Z",
+      "content": "With two weeks until Election Day, a prominent New York City rabbi is urging his congregants not to vote for Democratic socialist Zohran Mamdani for mayor of New York City. \r\nMamdani is the presumed … [+3751 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Obama calls NYC mayoral frontrunner Mamdani just days before crucial election",
+      "description": "Former President Obama reached out to Democratic socialist Zohran Mamdani ahead of the NYC mayoral election against Andrew Cuomo and Curtis Sliwa.",
+      "url": "https://www.foxnews.com/politics/obama-calls-nyc-mayoral-frontrunner-mamdani-just-days-before-crucial-election",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/obama-mamdani-split.jpg",
+      "publishedAt": "2025-11-02T02:24:43Z",
+      "content": "Three days ahead of the New York City mayoral election, former President Barack Obama called frontrunner Zohran Mamdani to offer his support.\r\nThe 64-year-old Democrat offered to be a \"sounding board… [+1641 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Here's everything you missed from Zohran Mamdani's first Fox News interview",
+      "description": "New York City mayoral candidate Zohran Mamdani maintained his commitment to arresting Israeli Prime Minister Benjamin Netanyahu if elected New York City mayor, citing international law.",
+      "url": "https://www.foxnews.com/politics/5-key-takeaways-from-zohran-mamdanis-first-fox-news-interview",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-the-story.png",
+      "publishedAt": "2025-10-16T15:22:41Z",
+      "content": "New York City Democratic mayoral nominee Zohran Mamdani made his Fox News debut on Wednesday in a wide-ranging interview with \"The Story\" host Martha MacCallum. \r\nOn the eve of the first general elec… [+4650 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "The Decision: Jeffries toes the line, takes the plunge in long-awaited NYC mayoral endorsement",
+      "description": "Hakeem Jeffries finally endorses Zohran Mamdani for NYC mayor after months of delay, highlighting deep divisions within the Democratic Party over the progressive candidate.",
+      "url": "https://www.foxnews.com/politics/decision-jeffries-toes-line-takes-plunge-long-awaited-nyc-mayoral-endorsement",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/hakeem_mamdani.jpg",
+      "publishedAt": "2025-10-28T02:37:36Z",
+      "content": "Even up until the last hour, House Minority Leader Hakeem Jeffries, D-N.Y., played it coy about endorsing Zohran Mamdani in the New York City mayors race.\r\n\"Early voting, as you know, starts tomorrow… [+7872 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Celebrities praise Zohran Mamdani in NYC victory, as others slam the mayoral-elect as 'fraud class'",
+      "description": "Zohran Mamdani's NYC mayoral win sparks Hollywood reactions. Celebrities like Cynthia Nixon celebrate while others criticize the progressive Democrat's victory.",
+      "url": "https://www.foxnews.com/entertainment/celebrities-praise-zohran-mamdani-nyc-victory-others-slam-mayoral-elect-fraud-class",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani.jpg",
+      "publishedAt": "2025-11-05T19:37:03Z",
+      "content": "Democrat Zohran Mamdani's\r\n New York City mayoral victory has Hollywood buzzing.\r\nOn Tuesday, Mamdani won the New York City mayoral election, defeating independent candidate Andrew Cuomo and Republic… [+4716 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani ripped by rivals for unpopular stance during fiery NYC debate: 'You won't support Israel'",
+      "description": "Zohran Mamdani fields criticism from former Gov. Andrew Cuomo over past refusal to denounce the term \"globalize the intifada\" during contentious New York mayoral debate moment.",
+      "url": "https://www.foxnews.com/politics/mamdani-ripped-by-rivals-unpopular-stance-during-fiery-nyc-debate",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/sliwa-and-mamdani-nyc-debate.png",
+      "publishedAt": "2025-10-17T11:30:51Z",
+      "content": "NEW YORK, N.Y. - New York City Democratic mayoral nominee Zohran Mamdani fielded a series of contentious questions about how he will support Jewish New Yorkers during the first general election mayor… [+2968 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Zohran Mamdani lands long-waited key endorsement in New York City mayoral race",
+      "description": "House Leader Hakeem Jeffries has finally endorsed NYC socialist mayoral candidate Zohran Mamdani after months of speculation and discussion about Mamdani's place in the party.",
+      "url": "https://www.foxnews.com/politics/zohran-mamdani-lands-second-key-endorsement-new-york-city-mayoral-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-hakeem.jpg",
+      "publishedAt": "2025-10-24T17:39:24Z",
+      "content": "It took four months, but one of the top Democrats in New York State has finally endorsed New York City Democratic mayoral nominee Zohran Mamdani.\r\nWith Election Day closing in, Minority Leader Rep. H… [+6131 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Andrew Cuomo warns Trump will 'take over' New York City if Mamdani wins",
+      "description": "New York City mayoral candidate Andrew Cuomo warned that President Donald Trump will try to take over the city if Zohran Mamdani wins the mayoral race.",
+      "url": "https://www.foxnews.com/media/andrew-cuomo-warns-trump-take-over-new-york-city-mamdani-wins",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/andrew-cuomo-zohran-mamdani-new-york-city-mayor.jpg",
+      "publishedAt": "2025-10-30T01:00:48Z",
+      "content": "New York City mayoral candidate Andrew Cuomo warned on Wednesday that President Donald Trump would try to \"take over\" the city if Zohran Mamdani won the mayoral race.\r\n\"If Mamdani wins, you are going… [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Progressive power players rally voters for Zohran Mamdani as early voting kicks off in NYC mayoral race",
+      "description": "Progressive powerhouse trio, including Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez, unites to energize New Yorkers for Zohran Mamdani with nearly a week until Election Day.",
+      "url": "https://www.foxnews.com/politics/progressive-power-players-rally-voters-zohran-mamdani-early-voting-kicks-off-nyc-mayoral-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/mamdani-bernie.jpg",
+      "publishedAt": "2025-10-26T11:00:39Z",
+      "content": "NEW YORK Progressive stars Rep. Alexandria Ocasio-Cortez, D-N.Y., and Sen. Bernie Sanders, I-Vt., are teaming up with New York City mayoral candidate Zohran Mamdani Sunday night for a \"New York is no… [+4713 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NY Democrat snubs party line, backs Cuomo over socialist rival in heated race for NYC mayor",
+      "description": "Rep. Tom Suozzi breaks with Democratic leadership to endorse Andrew Cuomo over Zohran Mamdani in New York's mayoral race, citing concerns about socialism.",
+      "url": "https://www.foxnews.com/politics/ny-democrat-snubs-party-line-backs-cuomo-over-socialist-rival-heated-race-nyc-mayor",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/tom-suozzi-speaks-at-event.jpg",
+      "publishedAt": "2025-10-30T17:25:12Z",
+      "content": "On the eve of New Yorks mayoral race, one Democrat has broken ranks with the leadership in his chamber to express reservations about Democratic candidate Zohran Mamdani. \r\nRep. Tom Suozzi, D-N.Y., on… [+3793 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trump backs Cuomo and threatens to cut federal funding if 'Communist Mamdani' wins NYC mayor race",
+      "description": "Donald Trump warns New York City would face economic disaster under Zohran Mamdani's leadership and endorses Andrew Cuomo for mayor instead.",
+      "url": "https://www.foxnews.com/politics/trump-threatens-cut-federal-funding-communist-mamdani-wins-nyc-mayor-race-against-cuomo",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/trump-cuomo-endorsement-split.jpg",
+      "publishedAt": "2025-11-03T23:06:09Z",
+      "content": "President Donald Trump publicly endorsed Andrew Cuomo on Monday while threatening to withhold federal funding from New York City if Zohran Mamdani, who he labeled a \"Communist\", wins the mayoral elec… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani vows to defy Trump in fiery final march from Brooklyn Bridge to City Hall ahead of Election Day",
+      "description": "Democratic socialist Zohran Mamdani promised to reject President Donald Trump on the eve of Election Day, flanked by Attorney General Letitia James in defiant Brooklyn Bridge march.",
+      "url": "https://www.foxnews.com/politics/mamdani-vows-defy-trump-fiery-final-march-from-brooklyn-bridge-city-hall-ahead-election-day",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/mamdani-brooklyn-bridge.png",
+      "publishedAt": "2025-11-03T16:40:22Z",
+      "content": "Mayoral frontrunner Zohran Mamdani struck a defiant tone in an early morning speech Monday in response to President Donald Trumps \"threats\" to block federal funding to New York City if the democratic… [+4709 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Cuomo warns of Dem 'civil war' as NYC mayoral rivals cast their votes on consequential Election Day",
+      "description": "Democratic socialist Zohran Mamdani faces former Gov. Andrew Cuomo in the New York City mayoral election amid threats of federal funding cuts from President Donald Trump.",
+      "url": "https://www.foxnews.com/politics/cuomo-warns-dem-civil-war-nyc-mayoral-rivals-cast-votes-election-day",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/mamdani-cuomo-vote-1.png",
+      "publishedAt": "2025-11-04T17:13:15Z",
+      "content": "NEW YORK Leading New York City mayoral candidates, democratic socialist Zohran Mamdani and former Gov. Andrew Cuomo, cast their ballots on Election Day, as the future of New York City and the Democra… [+4328 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani says he won't be intimidated by any Trump threats about deploying National Guard",
+      "description": "Mayor-elect Zohran Mamdani tells George Stephanopoulos he would use courts to challenge any of President Donald Trump's National Guard deployment plans.",
+      "url": "https://www.foxnews.com/media/mamdani-says-he-wont-intimidated-any-trump-threats-about-deploying-national-guard",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/donald-trump-zohran-mamdani.png",
+      "publishedAt": "2025-11-05T19:30:13Z",
+      "content": "New York City Mayor-elect Zohran Mamdani said Wednesday he wouldnt be intimidated by President Donald Trumps potential threats to deploy the National Guard to his city.\r\n\"I think that his threats are… [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani accuses Cuomo of 'Islamophobic rhetoric' as contentious NYC mayoral race comes down to the wire",
+      "description": "Religious tensions escalate in New York City mayoral contest as leading candidate Zohran Mamdani faces criticism from Jewish community criticizing \"Islamophobic\" attacks from rivals.",
+      "url": "https://www.foxnews.com/politics/mamdani-accuses-cuomo-islamophobic-rhetoric-contentious-nyc-mayoral-race-comes-down-wire",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-andrew-cuomo.png",
+      "publishedAt": "2025-10-24T19:21:31Z",
+      "content": "On the eve of early voting in New York City, Democratic mayoral nominee Zohran Mamdani accused independent candidate Andrew Cuomo of \"Islamophobic rhetoric\" after the former governor joined a radio s… [+6133 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani tells MSNBC ‘I support BDS’ after saying he will be the mayor for every Jewish New Yorker",
+      "description": "New York City mayor candidate Zohran Mamdani told MSNBC he supports BDS to pressure Israel's compliance with international law while promising to represent all New Yorkers as mayor.",
+      "url": "https://www.foxnews.com/media/mamdani-tells-msnbc-i-support-bds-after-saying-he-mayor-every-jewish-new-yorker",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/mamdani-jewish-people.jpg",
+      "publishedAt": "2025-11-04T19:28:04Z",
+      "content": "New York City Democratic candidate Zohran Mamdani defended his support for the anti-Israel Boycott, Divestment and Sanctions (BDS) movement in a Tuesday interview on MSNBC.\r\nDuring an appearance on M… [+3166 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "White House slams Mamdani's 'completely irresponsible' comments linking Trump to threats against voters",
+      "description": "The White House called Zohran Mamdani's remarks \"irresponsible\" after he linked the Trump administration to bomb threats against New Jersey polling places.",
+      "url": "https://www.foxnews.com/politics/white-house-slams-mamdanis-completely-irresponsible-comments-linking-trump-threats-against-voters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/karoline-leavitt-nov-4-2025-1.jpg",
+      "publishedAt": "2025-11-04T20:15:27Z",
+      "content": "The White House slammed New York City mayoral candidate Zohran Mamdani after he linked the Trump administration to threats against voters in New Jersey.\r\nOn Tuesday, as New Jerseyans went to cast the… [+3412 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "JD Vance slams Mamdani over 9/11 comment, says Democrat socialist believes 'the real victim' was 'his auntie'",
+      "description": "Vice President JD Vance slams New York City Democrat mayoral candidate Zohran Mamdani over 9/11 remarks about his aunt as early voting begins in New York.",
+      "url": "https://www.foxnews.com/politics/jd-vance-criticizes-mamdani-claiming-according-him-the-real-victim-9-11-his-auntie",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/jd-vance-and-zohran-mamdani.jpg",
+      "publishedAt": "2025-10-25T16:47:18Z",
+      "content": "Vice President JD Vance criticized New York City mayoral candidate Zohran Mamdani on Saturday, writing on X that according to the Democrat, \"the real victim of 9/11\" was his aunt.\r\nVance made the rem… [+2579 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani forced to clarify relative invoked in viral Islamophobia anecdote as questions swirl",
+      "description": "NYC mayoral candidate Zohran Mamdani clarifies controversial aunt story after social media backlash over 9/11 subway anecdote and Islamophobia claims.",
+      "url": "https://www.foxnews.com/politics/mamdani-forced-clarify-relative-invoked-viral-islamophobia-anecdote-questions-swirl",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-upper-east-side.png",
+      "publishedAt": "2025-10-28T00:05:59Z",
+      "content": "New York City socialist mayoral candidate Zohran Mamdani offered up a clarification on Monday about an anecdote that sparked controversy on social media related to an anecdote he told about his \"aunt… [+3227 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC official exposes Mamdani's 'Marxist playbook' in revealing new Fox Nation special",
+      "description": "A Fox Nation special examines New York City mayoral candidate Zohran Mamdani's socialist policies, with critics calling the Democratic socialist \"dangerous\"",
+      "url": "https://www.foxnews.com/media/nyc-official-exposes-mamdanis-marxist-playbook-revealing-new-fox-nation-special",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/mamdani-queens-4.png",
+      "publishedAt": "2025-10-29T19:58:36Z",
+      "content": "The rise of New York City mayoral candidate Zohran Mamdani has ignited his supporters but critics are sounding the alarm about the potential ramifications of the up-and-coming politicians policy prop… [+2624 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Democratic Houston mayor slams Mamdani, says they're in 'different universes'",
+      "description": "Houston Mayor John Whitmire, a Democrat, called out New York City mayoral candidate Zohran Mamdani in an interview with The New York Times published Sunday.",
+      "url": "https://www.foxnews.com/media/democratic-houston-mayor-slams-mamdani-says-theyre-different-universes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mayor-john-whitmore.jpg",
+      "publishedAt": "2025-10-20T13:02:24Z",
+      "content": "Democratic Houston Mayor John Whitmire slammed New York City mayoral frontrunner Zohran Mamdani during an interview published Sunday, saying the two were from different universes.\r\nThe mayor said Mam… [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Moderate Dems in Albany shift further left as Mamdani pushes socialist agenda, assemblyman warns",
+      "description": "NYC assemblyman warns Albany Democrats shifting left to support Zohran Mamdani's mayoral bid. The 33-year-old democratic socialist gains backing from AOC, Jeffries and Warren.",
+      "url": "https://www.foxnews.com/politics/moderate-dems-albany-shift-further-left-mamdani-pushes-socialist-agenda-assemblyman-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-new-york-albany.jpg",
+      "publishedAt": "2025-11-03T19:48:00Z",
+      "content": "FIRST ON FOX: A New York state assemblyman told Fox News he is seeing a shift in Albany's Democrats further left in anticipation of democratic socialist Zohran Mamdani becoming mayor of New York City… [+3630 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC voters embrace democratic socialism as AOC, Sanders stump for Mamdani",
+      "description": "New York City voters see Zohran Mamdani and Rep. Alexandria Ocasio-Cortez, D-N.Y., as the Democratic Party's future after thousands packed Forest Hills Stadium in Queens.",
+      "url": "https://www.foxnews.com/politics/nyc-voters-embrace-democratic-socialism-aoc-sanders-stump-mamdani",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/sanders-mamdani-aoc.png",
+      "publishedAt": "2025-10-27T16:57:31Z",
+      "content": "Several New York City voters, who spoke to Fox News Digital at a Sunday rally, said New York City Democratic mayoral candidate Zohran Mamdani and Rep. Alexandria Ocasio-Cortez, D-N.Y., are the future… [+5672 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Old clip resurfaces as Mamdani takes heat for claiming Muslim victimhood after 9/11",
+      "description": "NYC mayoral candidate Zohran Mamdani faces criticism over a resurfaced 2020 video where he claims to be a victim of anti-Muslim discrimination after 9/11.",
+      "url": "https://www.foxnews.com/politics/old-clip-resurfaces-mamdani-takes-heat-claiming-muslim-victimhood-after-9-11",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-bronx.png",
+      "publishedAt": "2025-10-26T15:39:28Z",
+      "content": "New York City mayoral candidate Zohran Mamdani is facing criticism over a resurfaced video of him claiming to be the victim of anti-Muslim discrimination in the wake of the Sept. 11 terrorist attacks… [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani sparks online frenzy over response to whether he endorses NY Gov Hochul: 'Humiliating'",
+      "description": "NYC socialist mayoral candidate Zohran Mamdani sparked a frenzy on social media after he declined to endorse New York Gov. Kathy Hochul during a debate Thursday nigt.",
+      "url": "https://www.foxnews.com/politics/mamdani-sparks-online-frenzy-over-response-to-whether-he-endorses-ny-gov-hochul-humiliating",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-nyc-debate.png",
+      "publishedAt": "2025-10-17T20:57:01Z",
+      "content": "NEW YORK, N.Y. - New York City\r\n socialist mayoral candidate Zohran Mamdani sparked a political firestorm on Thursday night when he declined to endorse Democratic Gov. Kathy Hochul on a debate stage … [+2609 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC voters at ‘No Kings’ rally say Zohran Mamdani 'represents everything' Trump is not",
+      "description": "Protesters at Manhattan's \"No Kings\" rally explain their support for mayoral candidate Zohran Mamdani as New York City prepares for the November election.",
+      "url": "https://www.foxnews.com/politics/nyc-voters-no-kings-rally-say-zohran-mamdani-represents-everything-trump-not",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/register-to-vote-mamdani.png",
+      "publishedAt": "2025-10-18T23:02:44Z",
+      "content": "MANHATTAN, N.Y. New Yorkers who spoke to Fox News Digital at the \"No Kings\" rally in Times Square on Saturday agreed they want mayoral candidate Zohran Mamdani to protect New York City from President… [+4354 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "AOC pushes back after GOP lawmaker calls Mamdani’s Arabic campaigning a ‘humiliation’",
+      "description": "Rep. Alexandria Ocasio-Cortez responded to a post in which Rep. Brandon Gill took issue with New York City mayoral candidate Zohran Mamdani campaigning in Arabic",
+      "url": "https://www.foxnews.com/politics/aoc-pushes-back-after-gop-lawmaker-calls-mamdanis-arabic-campaigning-humiliation",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-aoc-october-2025.jpg",
+      "publishedAt": "2025-11-04T11:02:55Z",
+      "content": "Rep. Alexandria Ocasio-Cortez, D-N.Y., defended Democratic New York City mayoral candidate Zohran Mamdani after Republican Rep. Brandon Gill, R-Texas, criticized him for campaigning in Arabic.\r\n\"Just… [+1903 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Karine Jean-Pierre accuses Democratic leaders of ignoring voters by not endorsing Mamdani",
+      "description": "Former White House press secretary Karine Jean-Pierre criticized Democratic Party leadership for not endorsing New York City Mayor-elect Zohran Mamdani.",
+      "url": "https://www.foxnews.com/media/karine-jean-pierre-accuses-democratic-leaders-ignoring-voters-not-endorsing-mamdani",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/karine-jean-pierre-zohran-mamdani.jpg",
+      "publishedAt": "2025-11-07T00:50:19Z",
+      "content": "Former White House press secretary Karine Jean-Pierre said that Democratic Party leaders made a \"big mistake\" by not endorsing New York City Mayor-elect Zohran Mamdani during the primaries.\r\nJean-Pie… [+3040 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Heir to billionaire Soros fortune cheers Mamdani election with penthouse photo",
+      "description": "Alex Soros celebrates Democratic socialist Zohran Mamdani's mayoral election victory, calling it the continuation of the American dream in a social media post.",
+      "url": "https://www.foxnews.com/politics/heir-billionaire-soros-fortune-cheers-mamdani-election-penthouse-photo",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/alex-soros-zohran-mamdani-1.jpg",
+      "publishedAt": "2025-11-05T18:00:01Z",
+      "content": "The son of billionaire philanthropist George Soros\r\n released an image of himself standing beside Zohran Mamdani\r\n in a penthouse, writing after his election that, \"The American dream continues!\"\r\n\"S… [+1709 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Zohran Mamdani says NYC should uphold ICC arrest warrant for Netanyahu if he visits city",
+      "description": "NYC mayoral candidate Zohran Mamdani said he would arrest Israeli Prime Minister Benjamin Netanyahu under an ICC warrant if he were to visit the city.",
+      "url": "https://www.foxnews.com/politics/zohran-mamdani-says-nyc-should-uphold-icc-arrest-warrant-netanyahu-he-visits-city",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-arrest-netanyahu-the-story-fox-news-002.jpg",
+      "publishedAt": "2025-10-15T21:46:56Z",
+      "content": "New York City Democratic Socialist mayoral candidate Zohran Mamdani said the city should honor the International Criminal Court (ICC) arrest warrant issued for Israeli Prime Minister Benjamin Netanya… [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "UK politician Jeremy Corbyn, who was ousted over antisemitism allegations, shows support for Zohran Mamdani",
+      "description": "Jeremy Corbyn, the former UK Labour Party leader expelled from his party over antisemitism allegations, showed support for NYC mayoral candidate Zohran Mamdani.",
+      "url": "https://www.foxnews.com/world/uk-politician-jeremy-corbyn-who-ousted-over-antisemitism-allegations-shows-support-zohran-mamdani",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/corbyn-mamdani-london-001.jpg",
+      "publishedAt": "2025-11-03T03:25:28Z",
+      "content": "Jeremy Corbyn, the former UK Labour Party leader expelled from his party over antisemitism allegations, was working to help Zohran Mamdani tighten his grip on New York City on Sunday.\r\nMamdanis allia… [+3177 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "New York’s Stop-Mamdani movement may fall short for Andrew Cuomo despite Eric Adams endorsement",
+      "description": "Cuomo continues to spar with New York City mayoral front-runner Zohran Mamdani, as alliances shift and scandal swirls in the race for the city that never sleeps.",
+      "url": "https://www.foxnews.com/media/new-yorks-stop-mamdani-movement-may-fall-short-andrew-cuomo-despite-eric-adams-endorsement",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-cuomo-nyc.jpg",
+      "publishedAt": "2025-10-24T07:00:47Z",
+      "content": "There was Andrew Cuomo, at Madison Square Garden, yukking it up at a Knicks game.\r\nWhat was the ousted governor so happy about? Hed just come from the final New York mayoral debate, where he landed s… [+6650 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "SNL star who campaigned for Mamdani called out for mocking candidate's critics on show",
+      "description": "\"SNL's\" Sarah Sherman portrayed a Long Island woman fearing NYC mayoral candidate Zohran Mamdani in a \"Weekend Update\" sketch after actively campaigning for him in real life.",
+      "url": "https://www.foxnews.com/media/snl-star-who-campaigned-mamdani-called-out-mocking-candidates-critics-show",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/sherman-zohran-nyc.jpg",
+      "publishedAt": "2025-10-13T21:00:39Z",
+      "content": "Social media users called out \"Saturday Night Live\" cast member Sarah Sherman on Sunday for mocking critics of Democratic New York City mayoral candidate Zohran Mamdani during a performance while als… [+2869 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Fox News Voter Poll: Change candidate Mamdani defeats legacy political figures",
+      "description": "A Fox News Voter Poll of more than 4,700 registered voters in New York City provides new insights into Democrat candidate Zohran Mamdani's victory.",
+      "url": "https://www.foxnews.com/politics/fox-news-voter-poll-change-candidate-mamdani-defeats-legacy-political-figures",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-election-night-watch-party.jpg",
+      "publishedAt": "2025-11-05T14:25:55Z",
+      "content": "Democrat Zohran Mamdani won the New York City mayoral election, securing broad swaths of the electorate and defeating independent candidate Andrew Cuomo and Republican Curtis Sliwa. His campaign for … [+8471 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Cuomo narrows Mamdani’s advantage in latest poll ahead of NYC mayoral election",
+      "description": "Democratic socialist Zohran Mamdani could make history as New York City's first Muslim mayor, leading former Gov. Andrew Cuomo in latest mayoral election poll.",
+      "url": "https://www.foxnews.com/politics/cuomo-narrows-mamdanis-advantage-latest-poll-ahead-nyc-mayoral-election",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/cuomo-mamdani-andrew-zohran-new-york-city-mayor.jpg",
+      "publishedAt": "2025-10-29T19:38:58Z",
+      "content": "With less than a week until Election Day, Zohran Mamdani\r\n holds a double-digit, 10-point lead in the race for the nation's most populous city, but former Gov. Andrew Cuomo keeps narrowing the gap, a… [+4408 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Jewish groups issue post-election warning to Mamdani as he prepares to lead New York City",
+      "description": "Jewish organizations expressed deep concerns after Zohran Mamdani's win regarding his Israel stance and refusal to condemn the term \"globalize the intifada.\"",
+      "url": "https://www.foxnews.com/politics/jewish-groups-issue-post-election-warning-mamdani-he-prepares-lead-new-york-city",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-1.jpg",
+      "publishedAt": "2025-11-05T19:34:21Z",
+      "content": "Jewish organizations are speaking out as self-identified Democratic socialist Zohran Mamdani prepares to take the reins of America's most populous city.\r\nThe UJA-Federation of New York, JCRC-NY, ADL … [+5886 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "'Progressive capitalist' rallies for 'democratic socialist' candidate in NYC mayoral race",
+      "description": "New York City mayoral candidate Zohran Mamdani's \"tax the rich\" platform draws President Donald Trump's \"communist\" label as protester disrupts Queens rally with Rep. Ro Khanna, D-Calif.",
+      "url": "https://www.foxnews.com/politics/progressive-capitalist-rallies-democratic-socialist-candidate-nyc-mayoral-race-broad-tent",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/ro-khanna-nyc.png",
+      "publishedAt": "2025-11-01T23:52:28Z",
+      "content": "JAMAICA, QUEENS Rep. Ro Khanna, D-Calif., is a \"progressive capitalist,\" but ahead of New York City's highly-anticipated Election Day, the Silicon Valley congressman rallied for self-identified democ… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "FLASHBACK: Wildest moments Mamdani overcame on the campaign trail to become NYC's next mayor",
+      "description": "NYC socialist Zohran Mamdani won his mayoral election despite facing intense criticism over communist labels and controversial Israel positions throughout his campaign.",
+      "url": "https://www.foxnews.com/politics/flashback-wildest-moments-mamdani-overcame-campaign-trail-become-nycs-next-mayor",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-the-story.png",
+      "publishedAt": "2025-11-05T11:00:07Z",
+      "content": "New York City socialist candidate Zohran Mamdani cruised to victory on Tuesday night, defying the laundry list of critics who railed against him over several high-profile controversial stances and st… [+7535 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Trading barbs from light-hearted to vicious, mayoral candidates make final appeal to New Yorkers",
+      "description": "New York City mayoral candidates Zohran Mamdani, former Gov. Andrew Cuomo and Curtis Sliwa faced off in their last debate as billionaires call for Sliwa to drop out.",
+      "url": "https://www.foxnews.com/politics/trading-barbs-from-light-hearted-vicious-mayoral-candidates-make-final-appeal-new-yorkers",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/3f459ccb-cuomo-mamdani-sliwa.png",
+      "publishedAt": "2025-10-23T00:55:17Z",
+      "content": "New York City mayoral contenders relentlessly criticized their opponents as they made their final pitch to voters Wednesday night in the last debate before early voting starts this Saturday. \r\nDemocr… [+8165 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Jeffries says 'no' when asked if Mamdani is future of Democratic Party despite endorsement",
+      "description": "Hakeem Jeffries said during an interview on Sunday that NYC mayoral candidate Zohran Mamdani isn't the future of the Democratic Party, despite endorsing the democratic socialist frontrunner.",
+      "url": "https://www.foxnews.com/media/jeffries-says-no-when-asked-mamdani-future-democratic-party-despite-endorsement",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/jeffries-mamdani-cnn.jpg",
+      "publishedAt": "2025-11-02T18:18:58Z",
+      "content": "Rep. Hakeem Jeffries said he didn't see New York City mayoral candidate Zohran Mamdani as the future of the Democratic Party during an interview on CNN's \"State of the Union\" on Sunday.\r\nAsked by CNN… [+2663 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani flip-flops on key Hamas position one day after refusing to call on them to disarm",
+      "description": "NYC socialist mayoral candidate Zohran Mamdani backtracked on the debate stage from a comment made the previous day where he declined to call on Hamas to disarm.",
+      "url": "https://www.foxnews.com/politics/mamdani-flip-flops-key-hamas-position-debate-day-after-refusing-call-hamas-disarm",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/nyc-debate-mamdani.png",
+      "publishedAt": "2025-10-17T00:55:08Z",
+      "content": "Socialist New York City mayoral candidate Zohran Mamdani appeared to backtrack on his position about Hamas laying down their arms in Thursday night's mayoral debate.\r\n\"Of course I believe that they s… [+2564 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani stands by promise to arrest Netanyahu if he comes to New York City",
+      "description": "Democratic socialist candidate for New York City mayor Zohran Mamdani is standing by his promise to arrest Israeli Prime Minister Benjamin Netanyahu if he comes to city.",
+      "url": "https://www.foxnews.com/media/mamdani-stands-promise-arrest-netanyahu-he-comes-new-york-city",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-netanyahu-nyt.jpg",
+      "publishedAt": "2025-10-15T14:13:16Z",
+      "content": "New York City mayoral candidate Zohran Mamdani is standing by his pledge to arrest Israeli Prime Minister Benjamin Netanyahu if he wins the race and if the Israeli leader visits New York City.\r\n\"It i… [+3037 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Linda Sarsour tells followers she will ‘hold Zohran accountable’ if Mamdani wins NYC mayoral race",
+      "description": "Linda Sarsour vows to hold NYC mayoral frontrunner Zohran Mamdani accountable if elected, warning she'll stay outside City Hall to ensure campaign promises are kept.",
+      "url": "https://www.foxnews.com/politics/linda-sarsour-tells-followers-she-hold-zohran-accountable-mamdani-wins-nyc-mayoral-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/linda-sarsour-and-zohran-mamdani.jpg",
+      "publishedAt": "2025-11-03T01:12:51Z",
+      "content": "Palestinian-American activist Linda Sarsour issued a thinly veiled warning Saturday night to New York City mayoral front-runner Zohran Mamdani, saying she will \"hold Zohran accountable\" to fulfill ca… [+5957 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Zohran Mamdani’s NYC mayoral campaign took foreign cash, raising compliance questions",
+      "description": "Zohran Mamdani's New York City mayoral campaign collected nearly $13,000 from foreign donors, including his mother-in-law in Dubai, which may violate campaign finance laws.",
+      "url": "https://www.foxnews.com/politics/zohran-mamdanis-nyc-mayoral-campaign-took-foreign-cash-raising-compliance-questions",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/zohran-mamdani-september-2025.png",
+      "publishedAt": "2025-10-14T22:22:29Z",
+      "content": "New York City's leading mayoral candidate, Zohran Mamdani, raised nearly $13,000 from donors with addresses outside the United States, a Fox News review of New York City Campaign Finance records show… [+2513 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani dances into final campaign stretch, pushing socialist affordability message ahead of NYC vote",
+      "description": "New York City mayoral candidate Zohran Mamdani campaigned with seniors and hospital workers while delivering a closing message focused on affordability with the election just days away.",
+      "url": "https://www.foxnews.com/politics/mamdani-dances-election-day-reveals-top-issue-behind-his-nyc-rise-closing-argument",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-dancing.gif",
+      "publishedAt": "2025-10-31T19:51:38Z",
+      "content": "Facing tightening polls and growing scrutiny of his progressive agenda, New York City Democratic mayoral nominee Zohran Mamdani spent Friday courting senior voters on the Lower East Side even joining… [+5377 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Curtis Sliwa vows to be Zohran Mamdani's 'worst nightmare' if the Democratic socialist wins NYC mayoral race",
+      "description": "New York City mayoral candidates Zohran Mamdani and Curtis Sliwa find common ground rejecting billionaire influence despite their contentious campaign rivalry.",
+      "url": "https://www.foxnews.com/politics/curtis-sliwa-vows-zohran-mamdanis-worst-nightmare-democratic-socialist-wins-nyc-mayoral-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/sliwa-mamdani.jpg",
+      "publishedAt": "2025-10-23T17:04:51Z",
+      "content": "While New York City Democratic mayoral nominee Zohran Mamdani admitted he would rank his Republican opponent Curtis Sliwa second if the general election used ranked-choice voting, Sliwa said Mamdani … [+4016 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Antisemitism watchdog issues scathing ‘alarm bell’ report on Mamdani as NYC election nears",
+      "description": "Fox News exclusively spoke to an antisemitism research institute about its report on NYC mayoral candidate Zohran Mamdani's controversial positions on Israel.",
+      "url": "https://www.foxnews.com/politics/antisemitism-watchdog-issues-scathing-alarm-bell-report-mamdani-nyc-election-nears",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-bodega.png",
+      "publishedAt": "2025-11-03T15:00:50Z",
+      "content": "FIRST ON FOX: Fox News Digital exclusively spoke with the antisemitism research institute that released an 11th hour comprehensive report that summarized its concerns about New York City socialist ma… [+4939 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Fox News Poll: Mamdani maintains significant lead in NYC mayoral race",
+      "description": "New Fox News survey shows Zohran Mamdani maintaining 21-point lead over Andrew Cuomo in NYC mayoral race as voters favor him on crime and housing issues.",
+      "url": "https://www.foxnews.com/politics/fox-news-poll-mamdani-maintains-significant-lead-nyc-mayoral-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mamdani-the-story.png",
+      "publishedAt": "2025-10-16T21:59:59Z",
+      "content": "Ahead of Thursdays debate, a new Fox News survey finds the Democratic nominee, Zohran Mamdani, maintaining a substantial lead in the New York City mayoral race as voters see him as best to handle the… [+6820 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani victory speech draws concern as NYC mayor-elect vows 'no problem too large for government to solve'",
+      "description": "Zohran Mamdani indicated during a New York City mayoral race victory speech that there is no matter too big or small for the government to tackle.",
+      "url": "https://www.foxnews.com/politics/mamdani-victory-speech-draws-concern-nyc-mayor-elect-vows-no-problem-too-large-government-solve",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-november-2025-new-york.jpg",
+      "publishedAt": "2025-11-05T17:31:40Z",
+      "content": "While delivering his victory speech on Tuesday night, New York City Mayor-elect Zohran Mamdani made a statement about the government's role in citizens' lives, sparking concern from critics online.\r\n… [+1471 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Washington Post editorial says Mamdani 'drops the mask' after election win, offers 'seething' victory speech",
+      "description": "On Saturday, The Washington Post editorial board criticized mayor-elect Zohran Mamdani's victory speech, claiming it revealed a 'class warfare' agenda for New York City.",
+      "url": "https://www.foxnews.com/media/washington-post-editorial-says-mamdani-drops-mask-after-election-win-offers-seething-victory-speech",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/zohran-mamdani-1.jpg",
+      "publishedAt": "2025-11-08T19:35:55Z",
+      "content": "The Washington Post editorial board asserted that a \"new era of class warfare has begun\" in New York City after Mayor-elect Zohran Mamdani won last weeks election criticizing what it described as his… [+5194 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC mayoral rivals unite against billionaire ‘election interference’ as campaign enters final stretch",
+      "description": "Republican Curtis Sliwa refuses to withdraw from the New York City mayoral race despite billionaire calls, creating an unlikely alliance with Democratic opponent Zohran Mamdani.",
+      "url": "https://www.foxnews.com/politics/nyc-mayoral-rivals-unite-against-billionaire-election-interference-campaign-enters-final-stretch",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/sliwa-and-mamdani-nyc-debate.png",
+      "publishedAt": "2025-10-20T18:26:52Z",
+      "content": "With two weeks until Election Day, Democratic nominee Zohran Mamdani and Republican nominee Curtis Sliwa have landed on unlikely common ground: rejecting billionaire influence in the New York City ma… [+4400 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mamdani forced to address unearthed video exposing vile NYPD comparison",
+      "description": "Remarks from 2023 by Zohran Mamdani likening the NYPD to the Israeli Defense Forces have resurfaced following criticism he has faced for other anti-police rhetoric.",
+      "url": "https://www.foxnews.com/politics/mamdani-forced-address-unearthed-video-exposing-vile-comment-nypd",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/mamdani-nypd.png",
+      "publishedAt": "2025-10-29T00:56:47Z",
+      "content": "A controversial comparison between law enforcement and the Israeli military (IDF) is landing New York City socialist mayoral candidate Zohran Mamdani\r\n in hot water after the unearthed clip from a 20… [+4147 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "NYC rabbis sound off on 'unprecedented risk' Mamdani poses as hundreds of leaders sign 'call to action'",
+      "description": "NYC rabbis warn voters about socialist mayoral candidate Zohran Mamdani's Israel positions, citing risks to Jewish community safety and unprecedented concerns.",
+      "url": "https://www.foxnews.com/politics/nyc-rabbis-sound-off-on-unprecedented-risk-mamdani-poses-as-hundreds-of-leaders-sign-call-to-action",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/rabbi-hirsch-zohran-mamdani.png",
+      "publishedAt": "2025-10-23T16:55:22Z",
+      "content": "As New York City gets closer to possibly electing socialist candidate Zohran Mamdani as its next mayor, Fox News Digital spoke to two prominent rabbis in the city who are publicly warning voters of t… [+6838 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Jon Stewart sparks social media backlash by comparing Mamdani to Jackie Robinson",
+      "description": "Jon Stewart faced social media backlash after comparing democratic socialist candidate Zohran Mamdani to baseball pioneer Jackie Robinson on \"The Daily Show.\"",
+      "url": "https://www.foxnews.com/media/jon-stewart-sparks-social-media-backlash-comparing-mamdani-jackie-robinson",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/stewart-mamdani-interview.jpg",
+      "publishedAt": "2025-10-29T20:32:46Z",
+      "content": "Social media users criticized Comedy Central host Jon Stewart on Tuesday for comparing New York City Democratic socialist candidate Zohran Mamdani to baseball legend Jackie Robinson.\r\nDuring an inter… [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Cuomo closes gap on Mamdani as NYC mayor race tightens dramatically in new poll",
+      "description": "Former NY Gov Andrew Cuomo gains ground on Zohran Mamdani in NYC mayoral race after Eric Adams endorsement. Republican Curtis Sliwa could play kingmaker role at 11%.",
+      "url": "https://www.foxnews.com/politics/mamdani-still-leads-cuomo-narrowing-gap-new-new-york-city-mayoral-race-poll",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/andrew-cuomo-zohran-mamdani-new-york-city-mayor.jpg",
+      "publishedAt": "2025-10-27T16:00:53Z",
+      "content": "With just over a week until Election Day, Zohran Mamdani holds a double-digit lead in the raucous race for the nation's most populous city, but former New York Gov. Andrew Cuomo is narrowing the gap,… [+4635 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mayor Eric Adams endorses Andrew Cuomo as his successor as Zohran Mamdani maintains substantial lead in NYC race",
+      "description": "Mayor Eric Adams backs former Gov. Andrew Cuomo for New York City mayor following Wednesday's debate against Democratic candidate Zohran Mamdani and Republican Curtis Sliwa.",
+      "url": "https://www.foxnews.com/politics/mayor-eric-adams-endorses-andrew-cuomo-his-successor-zohran-mamdani-maintains-substantial-lead-nyc-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/eric-adams-andrew-cuomo-thumbs-up-nba-game.jpg",
+      "publishedAt": "2025-10-23T19:22:23Z",
+      "content": "Mayor Eric Adams formally endorsed former Gov. Andrew Cuomo to replace him as the next mayor of New York City on Thursday, less than one month after Adams suspended his re-election campaign.\r\nThe end… [+4059 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Cuomo takes swipe at Mamdani in final campaign ad before Election Day",
+      "description": "Andrew Cuomo attacks Zohran Mamdani in final New York City mayoral campaign ad questioning rival's experience just days before Election Day.",
+      "url": "https://www.foxnews.com/politics/cuomo-takes-swipe-mamdani-final-campaign-ad-before-election-day",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/cuomo-and-mamdani-split.jpg",
+      "publishedAt": "2025-10-29T17:32:32Z",
+      "content": "Independent New York City mayoral candidate Andrew Cuomo took a swipe at Democratic socialist opponent Zohran Mamdani Wednesday in his final campaign ad released less than a week before Election Day.… [+2182 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Left-wing podcaster uses Mamdani win to push reeducation of 'crusty White people' to embrace multiculturalism",
+      "description": "Jennifer Welch celebrated Zohran Mamdani's election as NYC mayor-elect, claiming Americans have no culture and must embrace multiculturalism.",
+      "url": "https://www.foxnews.com/media/left-wing-podcaster-uses-mamdani-win-push-reeducation-crusty-white-people-embrace-multiculturalism",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/jennifer-welch-at-mamdani-event.png",
+      "publishedAt": "2025-11-06T02:21:29Z",
+      "content": "Left-wing podcast host Jennifer Welch expressed her joy at the election of New York Citys Mayor-elect, Zohran Mamdani, saying it was a sign of the turning political tide against the White conservativ… [+2507 chars]"
     }
   ]
 }

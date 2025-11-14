@@ -10,9 +10,10 @@ params = {
     #many apis ignore unknown parameters, so not the end of the world if you add a parameter that is not supported
 
     "apiKey": api_token,
-    "pageSize": 10,
-    "q": "Trumping",
+    "pageSize": 99,
+    "q": "zohran mamdani",
     "sortBy": "popularity",
+    "sources": "cnn,fox-news,msnbc",
 }
 
 
