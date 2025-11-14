@@ -23,13 +23,13 @@ Question Formulation
 
     notes: 
     
-    very vauge, we wont have any topics,
-    nor do we have any idea about the type of media sources we want to focus on, or the scale/region of that 
-    essentially doesnt answer any fundamental question (for the media company), lets work on refining that
+        very vauge, we wont have any topics,
+        nor do we have any idea about the type of media sources we want to focus on, or the scale/region of that 
+        essentially doesnt answer any fundamental question (for the media company), lets work on refining that
 
     value provided to media company:
 
-    not much, just some random information at the moment
+        not much, just some random information at the moment
 
 
 2) Is the coverage by national right-leaning media outlets of zohran mamdani positive or negative, and what topics does the coverage focus on
@@ -46,6 +46,7 @@ Question Formulation
 3) What percentage of coverage by North American national right-leaning media outlets of zohran mamdani is positive, negative or neutral? What are the 3-8 most prominant topics focused on by this coverage
 
     notes:
+
         starting to refine how we are going to classify positive or negative coverage (percentage) - this is going to need some more work and need a comprehensive typology to define positive / negative
 
     value provided to media company:
@@ -59,6 +60,7 @@ Question Formulation
 4) Before and after the NYC mayoral election, what percentage of coverage by North American national right-leaning media outlets of zohran mamdani is positive, negative or neutral? What are the 3-8 most prominant topics focused on by this coverage
 
     notes:
+
         adding an actual time frame (ie this week (post election) versus last month (before the election))
         Can extend further and analyze the topics that have been discussed before and after the election.
 
@@ -69,3 +71,57 @@ Question Formulation
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Flow plan --> article collection --> data cleaning --> open coding (devlop our typology) --> manual annotation & characterization--> analysis --> report/communicate
+
+Task 1 : Article collection
+
+    - Split into collecting 250 articles post election, 250 articles pre election 
+
+    - Need to make sure we are being representative with the news outlets chosen (ie, don't use 249 fox articles pre and 1 post, make sure you are being relatively consistent) --> how can we ensure this?
+
+    -Could also collect all across the spectrum, ensuring that we collect an equal number of right , left and neutral leaning
+
+    - May have to peel back on the "only right wing sources" if it proves very scarce to find --> how can we collect enough articles? current api isn't awesome (limit of 100)
+
+
+
+Task 2 : Cleaning
+
+    -Clean the data, make a csv with columns:  id, date (pre or post), source, title, opening. 
+    -Later we will add columns : "positive or negative coverage, and topic covered"
+
+Task 3: coding
+
+    - Using a totally random sample of 200 articles, start trying to devlop different topics for each article (1), essentially we are just creating another column of the data called 
+    "topic label"
+    -open code to develop a typology as to whether posts are positive negative or neutral (2)
+
+Task 4; manually annotate & characterize 
+    - manually annotate the rest of the (300) articles using your typologies for (1) and (2)
+    - Characterize the topics (1) by using tf-idf and an LLM to produce a representative summary (ie just summarizing all the most common words in all the posts included in that topic)
+
+Task 5: Analyze
+    - Find some trends pre and post election
+    - Communicate these in a report to the media company that hired you
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Article collection
+
+Sources we are to focus on and target articles [large national news outlets]: need 250pre/post, make sure that we have equal representation acrosss the political spectrum
+
+to do this we could use the media bias chart I sent and just use all of the outlet from each of the 5 bias columns and then collect 100 articles (50 pre, 50 post) from each
+
+
+- Could find an api that filters based on political bias 
+
+- Could Collect 50 articles pre and 50 articles post for each bias category using the sources
+
+Far left: MSNBC, new york times
+Left: CNN, ABC
+Center: Forbes, Reuters, Wall Street Journal
+Right: New York Post, Epoch times
+Far Right: Breitbart, FOX, Daily Mail
+
+
