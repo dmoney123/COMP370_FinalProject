@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 def flatten_dict(d, parent_key="", sep="."):
-    """Recursively flatten nested dictionaries."""
+
     items = {}
     for k, v in d.items():
         new_key = f"{parent_key}{sep}{k}" if parent_key else k
@@ -33,20 +33,19 @@ REPLACEMENTS = {
 
 def clean_text_value(v: str) -> str:
     """Clean strings: fix encoding, remove HTML, remove [+xxxx chars], normalize spacing."""
-    # Decode HTML entities like &amp;, &quot;
+
     v = html.unescape(v)
 
-    # Remove the "[+1234 chars]" text
+
     v = re.sub(r"\[\+\d+\schars]", "", v)
 
-    # Remove HTML tags
+
     v = re.sub(r"<[^>]+>", " ", v)
 
-    # Fix encoding issues
+
     for bad, good in REPLACEMENTS.items():
         v = v.replace(bad, good)
 
-    # Collapse whitespace
     v = " ".join(v.split())
 
     return v
@@ -86,32 +85,32 @@ def concat_news_json_to_csv(json_files, output_csv):
 
             article_flat = flatten_dict(article)
 
-            # Remove urlToImage
+
             article_flat.pop("urlToImage", None)
 
-            # Merge everything
+
             row = {
                 **top_level_flat,
                 **article_flat,
                 "from_json": file_path.name,  # 👈 ADD THIS
             }
 
-            # Clean all string values
+
             row = {k: clean_value(v) for k, v in row.items()}
 
             all_rows.append(row)
             all_keys.update(row.keys())
 
-    # Make sure removed fields don't appear
+    # UNWANTED FIELDS
     for unwanted in ["status", "totalResults", "urlToImage"]:
         all_keys.discard(unwanted)
 
-    # Ensure from_json is included
+
     all_keys.add("from_json")
 
     fieldnames = sorted(all_keys)
 
-    # Write CSV in utf-8-sig so Excel shows correct characters
+
     with open(output_csv, "w", newline="", encoding="utf-8-sig") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
