@@ -13,8 +13,6 @@ def find_sources():
 #find_sources()
 
     
-
-
 url = "https://newsapi.org/v2/everything"
 api_token = "02d9856ae6754ba899068431e06812c0"
 
@@ -75,28 +73,29 @@ params_4 = {
 #LEFT SOURCES PRE ELECTION##
 Left_pre = {
     "apiKey": api_token,
-    "pageSize": 100,
+    "pageSize": 75,
     "q": "zohran mamdani",
-    "from": "2025-10-14",
+    "from": "2025-10-21",
     "to": "2025-11-04",
-    "sources": "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine",
+    "sources": "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine, nbc-news, cnn, associated-press",
 }
 #LEFT SOURCES POST ELECTION##
 Left_post = {
     "apiKey": api_token,
-    "pageSize": 100,
+    "pageSize": 75,
     "q": "zohran mamdani",
     "from": "2025-11-04",
-    "to": "2025-11-14",
-    "sources": "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine",
+    "to": "2025-11-18",
+    "sources": "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine,nbc-news,cnn, associated-press",
+
 }
 
 #RIGHT WING SOURCES PRE##
 Right_pre = {
     "apiKey": api_token,
-    "pageSize": 100,
+    "pageSize": 75,
     "q": "zohran mamdani",
-    "from": "2025-10-15",
+    "from": "2025-10-18",
     "to": "2025-11-04",
     "sources": "breitbart-news,fox-news,national-review,the-american-conservative,the-washington-times",
 }
@@ -104,10 +103,10 @@ Right_pre = {
 #RIGHT WING SOURCES POST##
 Right_post = {
     "apiKey": api_token,
-    "pageSize": 100,
+    "pageSize": 75,
     "q": "zohran mamdani",
     "from": "2025-11-04",
-    "to": "2025-11-13",
+    "to": "2025-11-18",
     "sources": "breitbart-news,fox-news,national-review,the-american-conservative,the-washington-times",
 }
 
@@ -116,9 +115,11 @@ Center_pre = {
     "apiKey": api_token,
     "pageSize": 100,
     "q": "zohran mamdani",
-    "from": "2025-10-15",
+    "from": "2025-10-18",
     "to": "2025-11-04",
-    "sources": "abc-news,associated-press,bloomberg,cbs-news,cnn,reuters,nbc-news,the-wall-street-journal,usa-today,the-hill,time,axios",
+    "sources": "bloomberg, cbs-news,reuters,abc-news,the-wall-street-journal,usa-today,the-hill,time,axios",
+
+
 }
 #CENTER SOURCES POST##
 Center_post = {
@@ -126,8 +127,8 @@ Center_post = {
     "pageSize": 100,
     "q": "zohran mamdani",
     "from": "2025-11-04",
-    "to": "2025-11-13",
-    "sources": "abc-news,associated-press,bloomberg,cbs-news,cnn,reuters,nbc-news,the-wall-street-journal,usa-today,the-hill,time,axios",
+    "to": "2025-11-18",
+    "sources": "bloomberg,cbs-news,reuters,abc-news,the-wall-street-journal,usa-today,the-hill,time,axios",
 }
 
 
@@ -142,7 +143,6 @@ params_list.append(("Right_pre", Right_pre))
 params_list.append(("Center_pre", Center_pre))
 
 
-#the meat and potatoes -> this requests the url:  https://api.thenewsapi.com/v1/news/all?api_token=ESyCcyvNPy337CFHT6RR3bQUzNOfht6W55Lfe8u4&country=us&language=en&category=politics&limit=5&keywords=Mamdami
 # Save to the same folder the script lives in
 current_folder = os.path.dirname(os.path.abspath(__file__))
 
@@ -154,7 +154,7 @@ for name, params in params_list:
     test = response.json()
     
     # Create filename using the variable name
-    save_file = os.path.join(current_folder, f"{name}.json")
+    save_file = os.path.join(current_folder, f"Nov18_{name}.json")
     
     # Save each request to a separate file
     with open(save_file, "w") as f:

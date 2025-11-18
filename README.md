@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------------------------------------
 Documentation for COMP370 Final Project
 
-Last Update: November 13th 
+Last Update: November 18th 
 
 ----------------------------------------------------------------------------------------------------------------
                             Project:
@@ -109,19 +109,23 @@ Task 5: Analyze
 
 Article collection
 
-Sources we are to focus on and target articles [large national news outlets]: need 250pre/post, make sure that we have equal representation acrosss the political spectrum
-
-to do this we could use the media bias chart I sent and just use all of the outlet from each of the 5 bias columns and then collect 100 articles (50 pre, 50 post) from each
+Political Bias--> working plan (nov 18th): collect an equal amount of articles across the political spectrum using a media criteria found in literature and sources available on the API
 
 
-- Could find an api that filters based on political bias 
+//This was done using https://www.allsides.com//
 
-- Could Collect 50 articles pre and 50 articles post for each bias category using the sources
+    Left : "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine"
+    Center : "sources": "abc-news,associated-press,bloomberg,cbs-news,cnn,reuters,nbc-news,the-wall-street-journal,usa-today,the-hill,time,axios"
+    Right: "sources": "breitbart-news,fox-news,national-review,the-american-conservative,the-washington-times"
 
-Far left: MSNBC, new york times
-Left: CNN, ABC
-Center: Forbes, Reuters, Wall Street Journal
-Right: New York Post, Epoch times
-Far Right: Breitbart, FOX, Daily Mail
+    Aim to collect 150-200 left , 150-200 center, 150-200 right, ensure that right and left are balanced
+
+
+Pre/Post election --> for each of the defined bias sets, collect an equal number of articles pre/post election (November 4th, 2025)
+
+
+
+
+
 
 
