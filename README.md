@@ -66,6 +66,24 @@ Question Formulation
 
     value:
         Can provide insight into the shift in the right-wings opinion of ZM that has occured before and after the election
+
+    
+5) Before and after the NYC Mayoral election (on November 4th, 2025), how has the "favourabilty" of coverage (% change) by American National Media across the politicl spectrum changes? What are the 3-8 most prominant topics focused on by this coverage?
+
+    Notes:
+        changed from right --> across the spectrum to better adjust to our avaliable data
+
+    value:
+        provides the media company with information regarding how/if media coverage has changed before and after the mayoral election
+
+5.5) Before and after the NYC Mayoral election (on November 4th, 2025), how does the favouribility of coverage from american national media change across different media bias' (Right Center, Left). What are the most prominnat topics focused on by this coverage by each side of the spectrum? Has there been a change in these trends pre/post mayoral election?
+
+    Notes:
+        changed from 5), where we slightly reframe the question to explore different biases instead of exploring opinion before and after the election. 
+        should we be open coding seperate topics for each bias? -> no , lets open code a list of 3-8 unified topics and then analyze if there is a difference across the spectrum
+    value:
+        provides the media company with information regarding what the coverage from different media bias' is like, and if any of this coeverage has changed pre/post election
+    
         
 
 
@@ -109,23 +127,4 @@ Task 5: Analyze
 
 Article collection
 
-Political Bias--> working plan (nov 18th): collect an equal amount of articles across the political spectrum using a media criteria found in literature and sources available on the API
-
-
-//This was done using https://www.allsides.com//
-
-    Left : "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine"
-    Center : "sources": "abc-news,associated-press,bloomberg,cbs-news,cnn,reuters,nbc-news,the-wall-street-journal,usa-today,the-hill,time,axios"
-    Right: "sources": "breitbart-news,fox-news,national-review,the-american-conservative,the-washington-times"
-
-    Aim to collect 150-200 left , 150-200 center, 150-200 right, ensure that right and left are balanced
-
-
-Pre/Post election --> for each of the defined bias sets, collect an equal number of articles pre/post election (November 4th, 2025)
-
-
-
-
-
-
-
+Political Bias--> working plan (nov 18th): collect an equal amount of ar
