@@ -76,7 +76,7 @@ Question Formulation
     value:
         provides the media company with information regarding how/if media coverage has changed before and after the mayoral election
 
-5.5) Before and after the NYC Mayoral election (on November 4th, 2025), how does the favouribility of coverage from american national media change across different media bias' (Right Center, Left). What are the most prominnat topics focused on by this coverage by each side of the spectrum? Has there been a change in these trends pre/post mayoral election?
+5.5) Before and after the NYC Mayoral election (on November 4th, 2025), how does the favouribility of coverage from american national media change across different media bias' (Right Center, Left). What are the most prominant topics focused on by this coverage by each side of the spectrum? Has there been a change in these trends pre/post mayoral election?
 
     Notes:
         changed from 5), where we slightly reframe the question to explore different biases instead of exploring opinion before and after the election. 
@@ -127,4 +127,41 @@ Task 5: Analyze
 
 Article collection
 
-Political Bias--> working plan (nov 18th): collect an equal amount of ar
+Political Bias--> working plan (nov 18th): collect an equal amount of articles across the political spectrum using a media criteria found in literature and sources available on the API
+
+
+//The bias bucketing was done using https://www.allsides.com, however this could be a major source of error in the analysis//
+
+//Only using major national media sources//
+
+    Left : "sources": "msnbc,the-huffington-post,the-washington-post,newsweek,politico,vice-news,new-york-magazine, nbc-news, cnn, associated-press",
+    Center : "sources": "bloomberg, cbs-news,reuters,abc-news,the-wall-street-journal,usa-today,the-hill,time,axios",
+    Right: "sources": "breitbart-news,fox-news,national-review,the-american-conservative,the-washington-times"
+
+    Aim to collect 150-200 left , 150-200 center, 150-200 right, ensure that right and left have a balanced number 
+
+
+Pre/Post election --> for each of the defined bias sets, collect an equal number of articles pre/post election (November 4th, 2025). 
+
+    On Nov 18th, collect 14 days before and 14 days after election (oct 21 - nov 18th), to aim for equal representation pre/post election
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Open coding
+
+- wrote a quick script that can combine out jsons into a csv, removing the data we dont need (ie author) and keeping the data we do need
+
+conducted open coding on a systemic subset of 200 articles
+
+--> open coding on a set of ~200 articles, to come up with 3-8 types (topics) in a category (article) 
+    -goal of this coding: find 3-8 common topics across all of the articles. Be able to annotate the rest of the articles to fit within these topics
+    -conduct open coding across all types of media bias , come up with a uniform set of topics and then compare each of them across eachother
+
+
+
+
+
+
+
