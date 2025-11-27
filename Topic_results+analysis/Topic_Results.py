@@ -1,9 +1,13 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 
-# Path to your Excel file
-excel_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/Annotated_Topics.xlsx"
+# Get the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Path to your Excel file (relative to script directory)
+excel_path = os.path.join(script_dir, "Annotated_Topics.xlsx")
 
 # Read Excel file into DataFrame
 df = pd.read_excel(excel_path)
@@ -32,7 +36,7 @@ print(f"\nCleaned shape: {df_clean.shape}")
 print(f"Removed {len(df) - len(df_clean)} rows")
 
 # Save cleaned data to CSV
-output_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/clean.csv"
+output_path = os.path.join(script_dir, "clean.csv")
 df_clean.to_csv(output_path, index=False)
 print(f"\nSaved cleaned dataframe to: {output_path}")
 print(f"\nFirst few rows of cleaned data:")
@@ -54,7 +58,7 @@ print(f"\nTopic frequency table:")
 print(topic_freq)
 
 # Save topic frequencies to CSV
-freq_output_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/topic_frequencies.csv"
+freq_output_path = os.path.join(script_dir, "topic_frequencies.csv")
 topic_freq.to_csv(freq_output_path, index=False)
 print(f"\nSaved topic frequencies to: {freq_output_path}")
 
@@ -77,7 +81,7 @@ print(f"\nTopic percentage frequency table:")
 print(topic_freq_pct)
 
 # Save percentage frequencies to CSV
-pct_output_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/percent_topic_frequency.csv"
+pct_output_path = os.path.join(script_dir, "percent_topic_frequency.csv")
 topic_freq_pct.to_csv(pct_output_path, index=False)
 print(f"\nSaved percentage topic frequencies to: {pct_output_path}")
 
@@ -115,7 +119,7 @@ ax.grid(axis='y', alpha=0.3, linestyle='--')
 plt.tight_layout()
 
 # Save the figure
-graph_output_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/percent_topic_frequency_bar.png"
+graph_output_path = os.path.join(script_dir, "percent_topic_frequency_bar.png")
 plt.savefig(graph_output_path, dpi=300, bbox_inches='tight')
 print(f"\nSaved bar graph to: {graph_output_path}")
 

@@ -2,15 +2,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
 
 # This script builds on Topic_Results.py by adding additional analysis pns
 
-# File paths
-raw_data_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/topic_frequencies.csv"
-file_path = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/percent_topic_frequency.csv"
-output_path_1 = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/percent_topic_frequency_cleaned.csv"
-output_path_2 = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/left_vs_right_vs_center.csv"
-output_path_3 = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project/pre_vs_post_election.csv"
+# Get the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# File paths (relative to script directory)
+raw_data_path = os.path.join(script_dir, "topic_frequencies.csv")
+file_path = os.path.join(script_dir, "percent_topic_frequency.csv")
+output_path_1 = os.path.join(script_dir, "percent_topic_frequency_cleaned.csv")
+output_path_2 = os.path.join(script_dir, "left_vs_right_vs_center.csv")
+output_path_3 = os.path.join(script_dir, "pre_vs_post_election.csv")
 
 
 def clean_percent_frequency_csv(input_path, output_path):
@@ -165,7 +169,7 @@ def create_plots(left_right_center_path, pre_post_path, save_plots=False, output
     
     # Set output directory if saving
     if save_plots and output_dir is None:
-        output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+        output_dir = script_dir
     
     # Color mapping: center=black, left=blue, right=red
     color_map = {
@@ -260,41 +264,6 @@ def create_plots(left_right_center_path, pre_post_path, save_plots=False, output
     else:
         plt.show()
     
-    # Plot 5: Heatmap - Left vs Right vs Center
-    # Reorder rows to match color scheme (center, left, right)
-    fig, ax = plt.subplots(figsize=(12, 4))
-    heatmap_data = lrc_df.set_index('from_json')[topic_cols_lrc]
-    # Reorder to: center, left, right
-    desired_order = ['center', 'left', 'right']
-    heatmap_data = heatmap_data.reindex([cat for cat in desired_order if cat in heatmap_data.index])
-    sns.heatmap(heatmap_data, annot=True, fmt='.1f', cmap='YlOrRd', ax=ax, cbar_kws={'label': 'Percentage (%)'})
-    ax.set_title('Topic Distribution Heatmap: Left vs Right vs Center', fontsize=16, fontweight='bold')
-    ax.set_xlabel('Topics', fontsize=12)
-    ax.set_ylabel('Political Category', fontsize=12)
-    plt.tight_layout()
-    if save_plots:
-        plt.savefig(f"{output_dir}/left_right_center_heatmap.png", dpi=300, bbox_inches='tight')
-        print(f"Saved: {output_dir}/left_right_center_heatmap.png")
-        plt.close()
-    else:
-        plt.show()
-    
-    # Plot 6: Heatmap - Pre vs Post Election
-    fig, ax = plt.subplots(figsize=(12, 3))
-    heatmap_data = pp_df.set_index('from_json')[topic_cols_pp]
-    sns.heatmap(heatmap_data, annot=True, fmt='.1f', cmap='YlGnBu', ax=ax, cbar_kws={'label': 'Percentage (%)'})
-    ax.set_title('Topic Distribution Heatmap: Pre vs Post Election', fontsize=16, fontweight='bold')
-    ax.set_xlabel('Topics', fontsize=12)
-    ax.set_ylabel('Time Period', fontsize=12)
-    plt.tight_layout()
-    if save_plots:
-        plt.savefig(f"{output_dir}/pre_post_heatmap.png", dpi=300, bbox_inches='tight')
-        print(f"Saved: {output_dir}/pre_post_heatmap.png")
-        plt.close()
-        print("\nAll plots saved successfully!")
-    else:
-        plt.show()
-        print("\nAll plots displayed!")
 
 
 def plot_top_topics_by_bias(cleaned_csv_path, n_topics=5, save_plots=False, output_dir=None):
@@ -350,7 +319,7 @@ def plot_top_topics_by_bias(cleaned_csv_path, n_topics=5, save_plots=False, outp
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/top_topics_by_bias.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/top_topics_by_bias.png")
         plt.close()
@@ -416,7 +385,7 @@ def plot_pre_post_change_by_bias(cleaned_csv_path, save_plots=False, output_dir=
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/pre_post_change_by_bias.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/pre_post_change_by_bias.png")
         plt.close()
@@ -461,7 +430,7 @@ def plot_topic_prominence_heatmap(cleaned_csv_path, save_plots=False, output_dir
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/topic_prominence_heatmap.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/topic_prominence_heatmap.png")
         plt.close()
@@ -532,7 +501,7 @@ def plot_change_magnitude(cleaned_csv_path, save_plots=False, output_dir=None):
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/change_magnitude.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/change_magnitude.png")
         plt.close()
@@ -594,7 +563,7 @@ def plot_topic_composition_timeline(cleaned_csv_path, save_plots=False, output_d
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/topic_composition_timeline.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/topic_composition_timeline.png")
         plt.close()
@@ -663,7 +632,7 @@ def plot_top_topics_comparison(cleaned_csv_path, n_topics=3, save_plots=False, o
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/top_topics_comparison.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/top_topics_comparison.png")
         plt.close()
@@ -759,7 +728,7 @@ def plot_top_topics_pre_post_change(cleaned_csv_path, n_topics=5, save_plots=Fal
     plt.tight_layout()
     if save_plots:
         if output_dir is None:
-            output_dir = "/Users/dylanmyers/Desktop/5thyear/COMP370/Final_project"
+            output_dir = script_dir
         plt.savefig(f"{output_dir}/top_topics_pre_post_change.png", dpi=300, bbox_inches='tight')
         print(f"Saved: {output_dir}/top_topics_pre_post_change.png")
         plt.close()
@@ -775,16 +744,19 @@ if __name__ == "__main__":
     create_pre_post_election_csv(raw_data_path, output_path_3)
     
     #Create original plots
-    #create_plots(output_path_2, output_path_3)
-    #plot_top_topics_pre_post_change(output_path_1, n_topics=5)
+
+    create_plots(output_path_2, output_path_3)
+    plot_top_topics_pre_post_change(output_path_1, n_topics=5)
+    plot_pre_post_change_by_bias(output_path_1)
     
-    # Create additional analysis plots
+    
+    
     # Uncomment the ones you want to generate:
     
-    plot_top_topics_by_bias(output_path_1, n_topics=5)
+    """
     plot_pre_post_change_by_bias(output_path_1)
     plot_topic_prominence_heatmap(output_path_1)
     plot_change_magnitude(output_path_1)
     plot_topic_composition_timeline(output_path_1)
     plot_top_topics_comparison(output_path_1, n_topics=3)
-    #plot_top_topics_pre_post_change(output_path_1, n_topics=5)
+"""
